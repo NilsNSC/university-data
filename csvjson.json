@@ -1,0 +1,236 @@
+[
+  {
+    "ID": 39,
+    "Name": "Blekinge tekniska högskola",
+    "Created": "2024-05-23T07:12:31.776Z",
+    "Updated": "2024-05-23T07:12:31.776Z"
+  },
+  {
+    "ID": 38,
+    "Name": "Enskilda Högskolan Stockholm",
+    "Created": "2024-05-23T07:12:02.178Z",
+    "Updated": "2024-05-23T07:12:02.178Z"
+  },
+  {
+    "ID": 37,
+    "Name": "Försvarshögskolan Stockholm",
+    "Created": "2024-05-23T07:11:45.837Z",
+    "Updated": "2024-05-23T07:11:45.837Z"
+  },
+  {
+    "ID": 36,
+    "Name": "Gymnastik- och idrottshögskolan",
+    "Created": "2024-05-23T07:11:33.406Z",
+    "Updated": "2024-05-23T07:11:33.406Z"
+  },
+  {
+    "ID": 35,
+    "Name": "Göteborgs universitet",
+    "Created": "2024-05-23T07:11:04.817Z",
+    "Updated": "2024-05-23T07:11:04.817Z"
+  },
+  {
+    "ID": 34,
+    "Name": "Handelshögskolan i Stockholm",
+    "Created": "2024-05-23T07:10:55.017Z",
+    "Updated": "2024-05-23T07:10:55.017Z"
+  },
+  {
+    "ID": 33,
+    "Name": "Högskolan Dalarna",
+    "Created": "2024-05-23T07:10:34.102Z",
+    "Updated": "2024-05-23T07:10:34.102Z"
+  },
+  {
+    "ID": 32,
+    "Name": "Högskolan i Gävle",
+    "Created": "2024-05-23T07:10:26.860Z",
+    "Updated": "2024-05-23T07:10:26.860Z"
+  },
+  {
+    "ID": 31,
+    "Name": "Högskolan i Borås",
+    "Created": "2024-05-23T07:10:12.056Z",
+    "Updated": "2024-05-23T07:10:12.056Z"
+  },
+  {
+    "ID": 30,
+    "Name": "Högskolan i Halmstad",
+    "Created": "2024-05-23T07:10:04.475Z",
+    "Updated": "2024-05-23T07:10:04.475Z"
+  },
+  {
+    "ID": 29,
+    "Name": "Högskolan i Skövde",
+    "Created": "2024-05-23T07:09:49.801Z",
+    "Updated": "2024-05-23T07:09:49.801Z"
+  },
+  {
+    "ID": 28,
+    "Name": "Högskolan Kristianstad",
+    "Created": "2024-05-23T07:09:42.860Z",
+    "Updated": "2024-05-23T07:09:42.860Z"
+  },
+  {
+    "ID": 27,
+    "Name": "Högskolan Väst",
+    "Created": "2024-05-23T07:09:27.632Z",
+    "Updated": "2024-05-23T07:09:27.632Z"
+  },
+  {
+    "ID": 26,
+    "Name": "Johannelunds teologiska högskola",
+    "Created": "2024-05-23T07:08:47.885Z",
+    "Updated": "2024-05-23T07:08:47.885Z"
+  },
+  {
+    "ID": 25,
+    "Name": "Jönköpings universitet",
+    "Created": "2024-05-23T07:08:25.207Z",
+    "Updated": "2024-05-23T07:08:25.207Z"
+  },
+  {
+    "ID": 24,
+    "Name": "Karlstads universitet",
+    "Created": "2024-05-23T07:08:07.006Z",
+    "Updated": "2024-05-23T07:08:07.006Z"
+  },
+  {
+    "ID": 23,
+    "Name": "Karolinska institutet",
+    "Created": "2024-05-23T07:07:50.936Z",
+    "Updated": "2024-05-23T07:07:50.936Z"
+  },
+  {
+    "ID": 22,
+    "Name": "Konstfack",
+    "Created": "2024-05-23T07:07:40.150Z",
+    "Updated": "2024-05-23T07:07:40.150Z"
+  },
+  {
+    "ID": 21,
+    "Name": "Kungl. Tekniska högskolan",
+    "Created": "2024-05-23T07:07:25.925Z",
+    "Updated": "2024-10-02T15:03:00.558Z"
+  },
+  {
+    "ID": 20,
+    "Name": "Kungliga Musikhögskolan i Stockholm",
+    "Created": "2024-05-23T07:07:07.676Z",
+    "Updated": "2024-05-23T07:07:07.676Z"
+  },
+  {
+    "ID": 19,
+    "Name": "Linköpings universitet",
+    "Created": "2024-05-23T07:06:34.596Z",
+    "Updated": "2024-05-23T07:06:34.596Z"
+  },
+  {
+    "ID": 18,
+    "Name": "Linnéuniversitetet",
+    "Created": "2024-05-23T07:06:16.464Z",
+    "Updated": "2024-05-23T07:06:16.464Z"
+  },
+  {
+    "ID": 17,
+    "Name": "Luleå tekniska universitet",
+    "Created": "2024-05-13T16:49:36.914Z",
+    "Updated": "2024-05-13T16:49:36.914Z"
+  },
+  {
+    "ID": 16,
+    "Name": "Lunds universitet",
+    "Created": "2024-05-13T16:49:09.758Z",
+    "Updated": "2024-05-13T16:49:09.758Z"
+  },
+  {
+    "ID": 15,
+    "Name": "Malmö universitet",
+    "Created": "2024-05-13T16:49:01.706Z",
+    "Updated": "2024-05-13T16:49:01.706Z"
+  },
+  {
+    "ID": 14,
+    "Name": "Marie Cederschiöld Högskola",
+    "Created": "2024-05-13T16:48:49.309Z",
+    "Updated": "2024-05-13T16:48:49.309Z"
+  },
+  {
+    "ID": 13,
+    "Name": "Mittuniversitet",
+    "Created": "2024-05-13T16:48:23.735Z",
+    "Updated": "2024-05-13T16:48:23.735Z"
+  },
+  {
+    "ID": 12,
+    "Name": "Sophiahemmet högskola",
+    "Created": "2024-05-13T16:47:43.410Z",
+    "Updated": "2024-05-13T16:47:43.410Z"
+  },
+  {
+    "ID": 11,
+    "Name": "Mälardalens universitet",
+    "Created": "2024-05-12T18:05:47.212Z",
+    "Updated": "2024-05-12T18:05:47.212Z"
+  },
+  {
+    "ID": 10,
+    "Name": "Newmaninstitutet",
+    "Created": "2024-05-12T18:04:21.735Z",
+    "Updated": "2024-05-12T18:04:21.735Z"
+  },
+  {
+    "ID": 9,
+    "Name": "Röda korsets högskola",
+    "Created": "2024-05-12T18:03:55.035Z",
+    "Updated": "2024-05-12T18:03:55.035Z"
+  },
+  {
+    "ID": 8,
+    "Name": "Stockholms konstnärliga högskola",
+    "Created": "2024-05-12T18:03:35.603Z",
+    "Updated": "2024-05-12T18:03:58.844Z"
+  },
+  {
+    "ID": 7,
+    "Name": "Sveriges lantbruksuniversitet",
+    "Created": "2024-05-12T18:03:01.826Z",
+    "Updated": "2024-05-12T18:03:01.826Z"
+  },
+  {
+    "ID": 6,
+    "Name": "Södertörns högskola",
+    "Created": "2024-05-12T18:02:44.606Z",
+    "Updated": "2024-05-12T18:02:44.606Z"
+  },
+  {
+    "ID": 5,
+    "Name": "Umeå universitet",
+    "Created": "2024-05-12T18:02:29.361Z",
+    "Updated": "2024-05-12T18:02:29.361Z"
+  },
+  {
+    "ID": 4,
+    "Name": "Uppsala universitet",
+    "Created": "2024-05-12T18:02:19.677Z",
+    "Updated": "2024-05-12T18:02:19.677Z"
+  },
+  {
+    "ID": 3,
+    "Name": "Örebro universitet",
+    "Created": "2024-05-12T18:02:11.041Z",
+    "Updated": "2024-05-12T18:02:11.041Z"
+  },
+  {
+    "ID": 2,
+    "Name": "Stockholms universitet",
+    "Created": "2024-05-12T17:59:46.302Z",
+    "Updated": "2024-05-12T17:59:46.302Z"
+  },
+  {
+    "ID": 1,
+    "Name": "Chalmers tekniska högskola",
+    "Created": "2024-05-12T17:59:34.873Z",
+    "Updated": "2024-05-12T17:59:34.873Z"
+  }
+]
