@@ -1,0 +1,2394 @@
+[
+  {
+    "ID": 329,
+    "Name": "Utställningsdesign 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:14:25.117Z",
+    "Updated": "2024-05-09T16:14:25.117Z"
+  },
+  {
+    "ID": 328,
+    "Name": "Utställningsdesign 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:14:18.461Z",
+    "Updated": "2024-05-09T16:14:18.461Z"
+  },
+  {
+    "ID": 327,
+    "Name": "Systemuppbyggnad",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:10:59.967Z",
+    "Updated": "2024-05-09T16:10:59.967Z"
+  },
+  {
+    "ID": 326,
+    "Name": "Svets grund",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:10:33.165Z",
+    "Updated": "2024-05-09T16:10:33.165Z"
+  },
+  {
+    "ID": 325,
+    "Name": "Produktutveckling 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:09:14.007Z",
+    "Updated": "2024-05-09T16:09:14.007Z"
+  },
+  {
+    "ID": 324,
+    "Name": "Produktutveckling 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:09:06.622Z",
+    "Updated": "2024-05-09T16:09:06.622Z"
+  },
+  {
+    "ID": 323,
+    "Name": "Produktionsutrustning 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:08:36.942Z",
+    "Updated": "2024-05-09T16:08:36.942Z"
+  },
+  {
+    "ID": 322,
+    "Name": "Produktionskunskap 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:08:17.891Z",
+    "Updated": "2024-05-09T16:08:17.891Z"
+  },
+  {
+    "ID": 321,
+    "Name": "Processreglering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:08:00.674Z",
+    "Updated": "2024-05-09T16:08:00.674Z"
+  },
+  {
+    "ID": 320,
+    "Name": "Processmätteknik 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:07:50.459Z",
+    "Updated": "2024-05-09T16:07:50.459Z"
+  },
+  {
+    "ID": 319,
+    "Name": "Nätverksteknologier",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:07:29.749Z",
+    "Updated": "2024-05-09T16:07:29.749Z"
+  },
+  {
+    "ID": 318,
+    "Name": "Nätverksteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:07:19.472Z",
+    "Updated": "2024-05-09T16:07:19.472Z"
+  },
+  {
+    "ID": 317,
+    "Name": "Nätverksadministration",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:07:06.323Z",
+    "Updated": "2024-05-09T16:07:06.323Z"
+  },
+  {
+    "ID": 316,
+    "Name": "Programmerbara styrsystem",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:06:46.448Z",
+    "Updated": "2024-05-09T16:06:46.448Z"
+  },
+  {
+    "ID": 315,
+    "Name": "Mät- och styrteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:06:34.982Z",
+    "Updated": "2024-05-09T16:06:34.982Z"
+  },
+  {
+    "ID": 314,
+    "Name": "Mät- och reglerteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:06:22.708Z",
+    "Updated": "2024-05-09T16:06:22.708Z"
+  },
+  {
+    "ID": 313,
+    "Name": "Människan i industrin 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:06:11.577Z",
+    "Updated": "2024-05-09T16:06:11.577Z"
+  },
+  {
+    "ID": 312,
+    "Name": "Radiologiska utrustninga",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:05:25.294Z",
+    "Updated": "2024-05-09T16:05:25.294Z"
+  },
+  {
+    "ID": 311,
+    "Name": "Gas- och vätsketeknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:05:13.220Z",
+    "Updated": "2024-05-09T16:05:13.220Z"
+  },
+  {
+    "ID": 310,
+    "Name": "Elektromedicinsk teknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:05:01.955Z",
+    "Updated": "2024-05-09T16:05:01.955Z"
+  },
+  {
+    "ID": 309,
+    "Name": "Matematik – specialisering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:04:45.012Z",
+    "Updated": "2024-05-09T16:04:45.012Z"
+  },
+  {
+    "ID": 308,
+    "Name": "Industritekniska processer 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:03:41.490Z",
+    "Updated": "2024-05-09T16:03:41.490Z"
+  },
+  {
+    "ID": 307,
+    "Name": "Robotteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:03:05.875Z",
+    "Updated": "2024-05-09T16:03:05.875Z"
+  },
+  {
+    "ID": 306,
+    "Name": "Aerodynamik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:01:21.403Z",
+    "Updated": "2024-05-09T16:01:21.403Z"
+  },
+  {
+    "ID": 305,
+    "Name": "Lasthantering och passagerarsäkerhet",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:00:25.820Z",
+    "Updated": "2024-05-09T16:00:25.820Z"
+  },
+  {
+    "ID": 304,
+    "Name": "Ljus- och bildproduktionsteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:00:12.143Z",
+    "Updated": "2024-05-09T16:00:12.143Z"
+  },
+  {
+    "ID": 303,
+    "Name": "Ljudproduktionsteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T16:00:00.527Z",
+    "Updated": "2024-05-09T16:00:00.527Z"
+  },
+  {
+    "ID": 302,
+    "Name": "Eventteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:59:49.055Z",
+    "Updated": "2024-05-09T15:59:49.055Z"
+  },
+  {
+    "ID": 301,
+    "Name": "Energiteknik 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:59:20.671Z",
+    "Updated": "2024-05-09T15:59:20.671Z"
+  },
+  {
+    "ID": 300,
+    "Name": "Ellära 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:59:08.710Z",
+    "Updated": "2024-05-09T15:59:08.710Z"
+  },
+  {
+    "ID": 299,
+    "Name": "Ellära 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:58:57.771Z",
+    "Updated": "2024-05-09T15:58:57.771Z"
+  },
+  {
+    "ID": 298,
+    "Name": "Mikrodatortillämpningar",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:58:46.174Z",
+    "Updated": "2024-05-09T15:58:46.174Z"
+  },
+  {
+    "ID": 297,
+    "Name": "Elektronik och mikrodatorteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:58:34.717Z",
+    "Updated": "2024-05-09T15:58:34.717Z"
+  },
+  {
+    "ID": 296,
+    "Name": "Underhåll – driftsäkerhet",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:58:19.646Z",
+    "Updated": "2024-05-09T15:58:19.646Z"
+  },
+  {
+    "ID": 295,
+    "Name": "Designmodeller",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:57:39.247Z",
+    "Updated": "2024-05-09T15:57:39.247Z"
+  },
+  {
+    "ID": 294,
+    "Name": "Datorstyrd produktion 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:57:15.754Z",
+    "Updated": "2024-05-09T15:57:15.754Z"
+  },
+  {
+    "ID": 293,
+    "Name": "Datorstyrd produktion 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:57:05.829Z",
+    "Updated": "2024-05-09T15:57:05.829Z"
+  },
+  {
+    "ID": 292,
+    "Name": "Cad/cam",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:56:20.256Z",
+    "Updated": "2024-05-09T15:56:20.256Z"
+  },
+  {
+    "ID": 291,
+    "Name": "Digital kommunikationsteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:55:56.885Z",
+    "Updated": "2024-05-09T15:55:56.885Z"
+  },
+  {
+    "ID": 290,
+    "Name": "Datorteknik 1a",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:55:44.728Z",
+    "Updated": "2024-05-09T15:55:44.728Z"
+  },
+  {
+    "ID": 289,
+    "Name": "Byggnadsverk",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:54:34.693Z",
+    "Updated": "2024-05-09T15:54:34.693Z"
+  },
+  {
+    "ID": 288,
+    "Name": "Cad 3",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-05-09T15:50:42.435Z",
+    "Updated": "2024-05-09T15:50:42.435Z"
+  },
+  {
+    "ID": 287,
+    "Name": "Cad 2",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-05-09T15:50:34.854Z",
+    "Updated": "2024-05-09T15:50:34.854Z"
+  },
+  {
+    "ID": 286,
+    "Name": "Cad 1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-05-09T15:50:27.987Z",
+    "Updated": "2024-05-09T15:50:27.987Z"
+  },
+  {
+    "ID": 285,
+    "Name": "Teknik 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:40:56.084Z",
+    "Updated": "2024-05-09T15:40:56.084Z"
+  },
+  {
+    "ID": 284,
+    "Name": "Teknik 1",
+    "Points": 150,
+    "Identitet": "",
+    "Created": "2024-05-09T15:40:47.993Z",
+    "Updated": "2024-05-09T15:40:47.993Z"
+  },
+  {
+    "ID": 283,
+    "Name": "Teknik – specialisering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:40:35.025Z",
+    "Updated": "2024-05-09T15:40:35.025Z"
+  },
+  {
+    "ID": 282,
+    "Name": "Språk specialisering – skrivande",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:36:46.219Z",
+    "Updated": "2024-05-09T15:36:46.219Z"
+  },
+  {
+    "ID": 281,
+    "Name": "Språk specialisering – retorik 1b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:36:33.834Z",
+    "Updated": "2024-05-09T15:36:33.834Z"
+  },
+  {
+    "ID": 280,
+    "Name": "Språk specialisering – retorik 1a",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-05-09T15:36:19.729Z",
+    "Updated": "2024-05-09T15:36:19.729Z"
+  },
+  {
+    "ID": 279,
+    "Name": "Ungdomskulturer",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:36:03.628Z",
+    "Updated": "2024-05-09T15:36:03.628Z"
+  },
+  {
+    "ID": 278,
+    "Name": "Människans språk 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:33:29.291Z",
+    "Updated": "2024-05-09T15:33:29.291Z"
+  },
+  {
+    "ID": 277,
+    "Name": "Modersmål 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:33:10.971Z",
+    "Updated": "2024-05-09T15:33:10.971Z"
+  },
+  {
+    "ID": 276,
+    "Name": "Modersmål 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:33:03.399Z",
+    "Updated": "2024-05-09T15:33:03.399Z"
+  },
+  {
+    "ID": 275,
+    "Name": "Modersmål – aktiv tvåspråkighet",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:32:50.693Z",
+    "Updated": "2024-05-09T15:32:50.693Z"
+  },
+  {
+    "ID": 274,
+    "Name": "Latin – språk och kultur 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:31:40.456Z",
+    "Updated": "2024-05-09T15:31:40.456Z"
+  },
+  {
+    "ID": 273,
+    "Name": "Latin – språk och kultur 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:31:29.138Z",
+    "Updated": "2024-05-09T15:31:29.138Z"
+  },
+  {
+    "ID": 272,
+    "Name": "Klassisk grekiska – språk och kultur 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:30:40.538Z",
+    "Updated": "2024-05-09T15:30:40.538Z"
+  },
+  {
+    "ID": 270,
+    "Name": "Klassisk grekiska – språk och kultur 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:30:04.399Z",
+    "Updated": "2024-05-09T15:30:04.399Z"
+  },
+  {
+    "ID": 269,
+    "Name": "Textil färg och form",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:25:58.120Z",
+    "Updated": "2024-05-09T15:25:58.120Z"
+  },
+  {
+    "ID": 268,
+    "Name": "Formgivning 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:25:46.643Z",
+    "Updated": "2024-05-09T15:25:46.643Z"
+  },
+  {
+    "ID": 267,
+    "Name": "Formgivning 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:25:37.635Z",
+    "Updated": "2024-05-09T15:25:37.635Z"
+  },
+  {
+    "ID": 266,
+    "Name": "Formgivning 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:25:26.674Z",
+    "Updated": "2024-05-09T15:25:26.674Z"
+  },
+  {
+    "ID": 265,
+    "Name": "Fackteckning och design",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:24:36.901Z",
+    "Updated": "2024-05-09T15:24:36.901Z"
+  },
+  {
+    "ID": 263,
+    "Name": "Estetisk kommunikation 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:23:09.049Z",
+    "Updated": "2024-05-09T15:23:09.049Z"
+  },
+  {
+    "ID": 262,
+    "Name": "Estetisk kommunikation 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:22:59.683Z",
+    "Updated": "2024-05-09T15:22:59.683Z"
+  },
+  {
+    "ID": 261,
+    "Name": "Design 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:22:23.864Z",
+    "Updated": "2024-05-09T15:22:23.864Z"
+  },
+  {
+    "ID": 260,
+    "Name": "Design 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:22:18.397Z",
+    "Updated": "2024-05-09T15:22:18.397Z"
+  },
+  {
+    "ID": 259,
+    "Name": "Dansträning",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:21:49.226Z",
+    "Updated": "2024-05-09T15:21:49.226Z"
+  },
+  {
+    "ID": 258,
+    "Name": "Dansteknik 4",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:21:33.554Z",
+    "Updated": "2024-05-09T15:21:33.554Z"
+  },
+  {
+    "ID": 257,
+    "Name": "Dansteknik 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:21:26.685Z",
+    "Updated": "2024-05-09T15:21:26.685Z"
+  },
+  {
+    "ID": 256,
+    "Name": "Dansteknik – specialisering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:21:14.800Z",
+    "Updated": "2024-05-09T15:21:14.800Z"
+  },
+  {
+    "ID": 255,
+    "Name": "Dansorientering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:20:54.295Z",
+    "Updated": "2024-05-09T15:20:54.295Z"
+  },
+  {
+    "ID": 254,
+    "Name": "Repertoar",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:20:42.096Z",
+    "Updated": "2024-05-09T15:20:42.096Z"
+  },
+  {
+    "ID": 253,
+    "Name": "Koreografi",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:20:30.035Z",
+    "Updated": "2024-05-09T15:20:30.035Z"
+  },
+  {
+    "ID": 252,
+    "Name": "Dansimprovisation och komposition",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:20:17.140Z",
+    "Updated": "2024-05-09T15:20:17.140Z"
+  },
+  {
+    "ID": 251,
+    "Name": "Dansimprovisation",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:20:07.551Z",
+    "Updated": "2024-05-09T15:20:07.551Z"
+  },
+  {
+    "ID": 250,
+    "Name": "Dansgestaltning 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:19:48.650Z",
+    "Updated": "2024-05-09T15:19:48.650Z"
+  },
+  {
+    "ID": 249,
+    "Name": "Dansgestaltning 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:19:24.780Z",
+    "Updated": "2024-05-09T15:19:24.780Z"
+  },
+  {
+    "ID": 248,
+    "Name": "Cirkus 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:19:13.329Z",
+    "Updated": "2024-05-09T15:19:13.329Z"
+  },
+  {
+    "ID": 247,
+    "Name": "Cirkus 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:19:05.747Z",
+    "Updated": "2024-05-09T15:19:05.747Z"
+  },
+  {
+    "ID": 246,
+    "Name": "Akrobatik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:18:54.428Z",
+    "Updated": "2024-05-09T15:18:54.428Z"
+  },
+  {
+    "ID": 245,
+    "Name": "Bildteori",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:18:36.766Z",
+    "Updated": "2024-05-09T15:18:36.766Z"
+  },
+  {
+    "ID": 244,
+    "Name": "Bild och form – specialisering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:18:18.538Z",
+    "Updated": "2024-05-09T15:18:18.538Z"
+  },
+  {
+    "ID": 243,
+    "Name": "Animation – specialisering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:17:42.158Z",
+    "Updated": "2024-05-09T15:17:42.158Z"
+  },
+  {
+    "ID": 242,
+    "Name": "Dansteori",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:15:58.240Z",
+    "Updated": "2024-05-09T15:15:58.240Z"
+  },
+  {
+    "ID": 241,
+    "Name": "Dansteknik 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:15:45.651Z",
+    "Updated": "2024-05-09T15:15:45.651Z"
+  },
+  {
+    "ID": 240,
+    "Name": "Dansteknik 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:15:39.504Z",
+    "Updated": "2024-05-09T15:15:39.504Z"
+  },
+  {
+    "ID": 239,
+    "Name": "Mental träning",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:11:17.460Z",
+    "Updated": "2024-05-09T15:11:17.460Z"
+  },
+  {
+    "ID": 238,
+    "Name": "Gränssnittsdesign",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:10:49.190Z",
+    "Updated": "2024-05-09T15:10:56.155Z"
+  },
+  {
+    "ID": 237,
+    "Name": "Gränssnitt 3D",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:10:39.560Z",
+    "Updated": "2024-05-09T15:10:39.560Z"
+  },
+  {
+    "ID": 236,
+    "Name": "Dramatik och dramaturgi",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:10:10.672Z",
+    "Updated": "2024-05-09T15:10:10.672Z"
+  },
+  {
+    "ID": 235,
+    "Name": "Skapande verksamhet",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:08:27.272Z",
+    "Updated": "2024-05-09T15:08:27.272Z"
+  },
+  {
+    "ID": 234,
+    "Name": "Dramapedagogik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:08:16.684Z",
+    "Updated": "2024-05-09T15:08:16.684Z"
+  },
+  {
+    "ID": 233,
+    "Name": "Gehörs- och musiklära 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:07:50.204Z",
+    "Updated": "2024-05-09T15:07:50.204Z"
+  },
+  {
+    "ID": 232,
+    "Name": "Gehörs- och musiklära 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:07:36.367Z",
+    "Updated": "2024-05-09T15:07:41.982Z"
+  },
+  {
+    "ID": 231,
+    "Name": "Arrangering och komposition 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:07:24.657Z",
+    "Updated": "2024-05-09T15:07:24.657Z"
+  },
+  {
+    "ID": 230,
+    "Name": "Arrangering och komposition 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:07:15.787Z",
+    "Updated": "2024-05-09T15:07:15.787Z"
+  },
+  {
+    "ID": 229,
+    "Name": "Rytmik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:05:50.565Z",
+    "Updated": "2024-05-09T15:05:50.565Z"
+  },
+  {
+    "ID": 228,
+    "Name": "Musikimprovisation",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:05:31.406Z",
+    "Updated": "2024-05-09T15:05:31.406Z"
+  },
+  {
+    "ID": 227,
+    "Name": "Musik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:05:17.771Z",
+    "Updated": "2024-05-09T15:05:17.771Z"
+  },
+  {
+    "ID": 226,
+    "Name": "Körsång 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:05:00.294Z",
+    "Updated": "2024-05-09T15:05:00.294Z"
+  },
+  {
+    "ID": 225,
+    "Name": "Körsång 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:04:54.081Z",
+    "Updated": "2024-05-09T15:04:54.081Z"
+  },
+  {
+    "ID": 224,
+    "Name": "Instrument eller sång 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:04:39.930Z",
+    "Updated": "2024-05-09T15:04:39.930Z"
+  },
+  {
+    "ID": 223,
+    "Name": "Instrument eller sång 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:04:30.025Z",
+    "Updated": "2024-05-09T15:04:30.025Z"
+  },
+  {
+    "ID": 222,
+    "Name": "Instrument eller sång 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:04:16.082Z",
+    "Updated": "2024-05-09T15:04:16.082Z"
+  },
+  {
+    "ID": 220,
+    "Name": "Ensembleledning och dirigering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:03:46.268Z",
+    "Updated": "2024-05-09T15:03:46.268Z"
+  },
+  {
+    "ID": 219,
+    "Name": "Ensemble med körsång",
+    "Points": 200,
+    "Identitet": "",
+    "Created": "2024-05-09T15:03:21.892Z",
+    "Updated": "2024-05-09T15:03:31.607Z"
+  },
+  {
+    "ID": 218,
+    "Name": "Ensemble 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:03:10.859Z",
+    "Updated": "2024-05-09T15:03:10.859Z"
+  },
+  {
+    "ID": 217,
+    "Name": "Ensemble 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:03:02.929Z",
+    "Updated": "2024-05-09T15:03:02.929Z"
+  },
+  {
+    "ID": 216,
+    "Name": "Bruksspel och ackompanjemang",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:02:42.986Z",
+    "Updated": "2024-05-09T15:02:42.986Z"
+  },
+  {
+    "ID": 215,
+    "Name": "Teaterteori",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:01:52.871Z",
+    "Updated": "2024-05-09T15:01:52.871Z"
+  },
+  {
+    "ID": 214,
+    "Name": "Scenografi, mask och kostym",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:01:42.950Z",
+    "Updated": "2024-05-09T15:01:42.950Z"
+  },
+  {
+    "ID": 213,
+    "Name": "Sceniskt karaktärsarbete – text",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:01:29.672Z",
+    "Updated": "2024-05-09T15:01:29.672Z"
+  },
+  {
+    "ID": 212,
+    "Name": "Sceniskt karaktärsarbete",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:01:16.793Z",
+    "Updated": "2024-05-09T15:01:16.793Z"
+  },
+  {
+    "ID": 211,
+    "Name": "Scenisk gestaltning 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:00:48.916Z",
+    "Updated": "2024-05-09T15:00:54.146Z"
+  },
+  {
+    "ID": 210,
+    "Name": "Scenisk gestaltning 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:00:42.021Z",
+    "Updated": "2024-05-09T15:00:42.021Z"
+  },
+  {
+    "ID": 209,
+    "Name": "Scenisk gestaltning 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:00:34.684Z",
+    "Updated": "2024-05-09T15:00:34.684Z"
+  },
+  {
+    "ID": 208,
+    "Name": "Röst",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T15:00:17.588Z",
+    "Updated": "2024-05-09T15:00:17.588Z"
+  },
+  {
+    "ID": 207,
+    "Name": "Regi",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:59:58.331Z",
+    "Updated": "2024-05-09T14:59:58.331Z"
+  },
+  {
+    "ID": 206,
+    "Name": "Ljud och ljus",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:58:55.875Z",
+    "Updated": "2024-05-09T14:58:55.875Z"
+  },
+  {
+    "ID": 205,
+    "Name": "Fysisk teater",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:58:43.478Z",
+    "Updated": "2024-05-09T14:58:43.478Z"
+  },
+  {
+    "ID": 204,
+    "Name": "Visuell kommunikation",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:58:08.870Z",
+    "Updated": "2024-05-09T14:58:08.870Z"
+  },
+  {
+    "ID": 203,
+    "Name": "Fotografisk bild 4",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:56:49.985Z",
+    "Updated": "2024-05-09T14:56:49.985Z"
+  },
+  {
+    "ID": 202,
+    "Name": "Kinesiska 7",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:56:01.305Z",
+    "Updated": "2024-05-09T14:56:01.305Z"
+  },
+  {
+    "ID": 201,
+    "Name": "Kinesiska 6",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:55:52.074Z",
+    "Updated": "2024-05-09T14:55:52.074Z"
+  },
+  {
+    "ID": 200,
+    "Name": "Kinesiska 5",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:55:36.567Z",
+    "Updated": "2024-05-09T14:55:36.567Z"
+  },
+  {
+    "ID": 199,
+    "Name": "Kinesiska 4",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:55:25.748Z",
+    "Updated": "2024-05-09T14:55:25.748Z"
+  },
+  {
+    "ID": 198,
+    "Name": "Kinesiska 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:55:16.891Z",
+    "Updated": "2024-05-09T14:55:16.891Z"
+  },
+  {
+    "ID": 197,
+    "Name": "Kinesiska 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-05-09T14:55:02.305Z",
+    "Updated": "2024-05-09T14:55:02.305Z"
+  },
+  {
+    "ID": 183,
+    "Name": "Arkitektur – rum",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-17T12:54:27.294Z",
+    "Updated": "2024-04-17T12:54:27.294Z"
+  },
+  {
+    "ID": 182,
+    "Name": "Arkitektur – hus",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-17T12:54:18.644Z",
+    "Updated": "2024-04-17T12:54:18.644Z"
+  },
+  {
+    "ID": 181,
+    "Name": "Latin – språk och kultur 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-17T12:53:42.954Z",
+    "Updated": "2024-04-17T12:53:42.954Z"
+  },
+  {
+    "ID": 180,
+    "Name": "Pedagogiskt ledarskap",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:23:34.032Z",
+    "Updated": "2024-04-16T17:23:34.032Z"
+  },
+  {
+    "ID": 179,
+    "Name": "Människors miljöer",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:23:24.462Z",
+    "Updated": "2024-04-16T17:23:24.462Z"
+  },
+  {
+    "ID": 178,
+    "Name": "Lärande och utveckling",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:23:05.407Z",
+    "Updated": "2024-04-16T17:23:05.407Z"
+  },
+  {
+    "ID": 177,
+    "Name": "Barns lärande och växande 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:22:26.779Z",
+    "Updated": "2024-04-16T17:22:26.779Z"
+  },
+  {
+    "ID": 176,
+    "Name": "Musikproduktion 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:21:59.140Z",
+    "Updated": "2024-04-16T17:21:59.140Z"
+  },
+  {
+    "ID": 175,
+    "Name": "Musikproduktion 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:21:52.037Z",
+    "Updated": "2024-04-16T17:21:52.037Z"
+  },
+  {
+    "ID": 174,
+    "Name": "Medier, samhälle och kommunikation 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:21:32.517Z",
+    "Updated": "2024-04-16T17:21:32.517Z"
+  },
+  {
+    "ID": 173,
+    "Name": "Medieproduktion 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:20:55.818Z",
+    "Updated": "2024-04-16T17:20:55.818Z"
+  },
+  {
+    "ID": 172,
+    "Name": "Journalistik, reklam och information 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:20:20.533Z",
+    "Updated": "2024-04-16T17:20:20.533Z"
+  },
+  {
+    "ID": 171,
+    "Name": "Journalistik, reklam och information 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:20:13.683Z",
+    "Updated": "2024-04-16T17:20:13.683Z"
+  },
+  {
+    "ID": 170,
+    "Name": "Radioproduktion",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:20:00.417Z",
+    "Updated": "2024-04-16T17:20:00.417Z"
+  },
+  {
+    "ID": 169,
+    "Name": "Ljudproduktion 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:19:34.463Z",
+    "Updated": "2024-04-16T17:19:34.463Z"
+  },
+  {
+    "ID": 168,
+    "Name": "Ljudproduktion 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:19:25.375Z",
+    "Updated": "2024-04-16T17:19:25.375Z"
+  },
+  {
+    "ID": 167,
+    "Name": "Film- och interaktiv ljudproduktion",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:19:09.216Z",
+    "Updated": "2024-04-16T17:19:09.216Z"
+  },
+  {
+    "ID": 166,
+    "Name": "Samtida kulturuttryck",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:18:36.107Z",
+    "Updated": "2024-04-16T17:18:36.107Z"
+  },
+  {
+    "ID": 164,
+    "Name": "Film- och tv-kunskap",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:18:10.568Z",
+    "Updated": "2024-04-16T17:18:10.568Z"
+  },
+  {
+    "ID": 163,
+    "Name": "Gränssnittsdesign",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:17:13.400Z",
+    "Updated": "2024-04-16T17:17:13.400Z"
+  },
+  {
+    "ID": 162,
+    "Name": "Grafiska arbetsflöden och analysmodeller",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:17:02.437Z",
+    "Updated": "2024-04-16T17:17:02.437Z"
+  },
+  {
+    "ID": 161,
+    "Name": "Grafisk kommunikation 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:16:51.380Z",
+    "Updated": "2024-04-16T17:16:51.380Z"
+  },
+  {
+    "ID": 160,
+    "Name": "Grafisk illustration i vektorgrafik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:16:24.319Z",
+    "Updated": "2024-04-16T17:16:24.319Z"
+  },
+  {
+    "ID": 159,
+    "Name": "Grafisk illustration i pixelgrafik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:16:12.332Z",
+    "Updated": "2024-04-16T17:16:12.332Z"
+  },
+  {
+    "ID": 158,
+    "Name": "Grafisk illustration",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:15:57.471Z",
+    "Updated": "2024-04-16T17:15:57.471Z"
+  },
+  {
+    "ID": 157,
+    "Name": "Fotografisk bild 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:15:39.892Z",
+    "Updated": "2024-04-16T17:15:39.892Z"
+  },
+  {
+    "ID": 156,
+    "Name": "Fotografisk bild 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:15:32.319Z",
+    "Updated": "2024-04-16T17:15:32.319Z"
+  },
+  {
+    "ID": 155,
+    "Name": "Fotografisk bild 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:15:25.698Z",
+    "Updated": "2024-04-16T17:15:25.698Z"
+  },
+  {
+    "ID": 154,
+    "Name": "Tv-produktion",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:15:10.045Z",
+    "Updated": "2024-04-16T17:15:10.045Z"
+  },
+  {
+    "ID": 153,
+    "Name": "Manus för film och tv",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:14:59.345Z",
+    "Updated": "2024-04-16T17:14:59.345Z"
+  },
+  {
+    "ID": 152,
+    "Name": "Filmproduktion",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:14:48.737Z",
+    "Updated": "2024-04-16T17:14:48.737Z"
+  },
+  {
+    "ID": 151,
+    "Name": "Film- och tv-produktion 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:14:34.009Z",
+    "Updated": "2024-04-16T17:14:34.009Z"
+  },
+  {
+    "ID": 150,
+    "Name": "Film- och tv-produktion 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:14:25.784Z",
+    "Updated": "2024-04-16T17:14:25.784Z"
+  },
+  {
+    "ID": 149,
+    "Name": "Digitalt skapande 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:14:09.949Z",
+    "Updated": "2024-04-16T17:14:09.949Z"
+  },
+  {
+    "ID": 148,
+    "Name": "Digitalt skapande 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:14:02.986Z",
+    "Updated": "2024-04-16T17:14:02.986Z"
+  },
+  {
+    "ID": 147,
+    "Name": "Form",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:13:50.211Z",
+    "Updated": "2024-04-16T17:13:50.211Z"
+  },
+  {
+    "ID": 146,
+    "Name": "Bild och form 1b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:13:39.413Z",
+    "Updated": "2024-04-16T17:13:39.413Z"
+  },
+  {
+    "ID": 145,
+    "Name": "Bild och form 1a1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T17:13:29.621Z",
+    "Updated": "2024-04-16T17:13:29.621Z"
+  },
+  {
+    "ID": 144,
+    "Name": "Bild",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:13:17.285Z",
+    "Updated": "2024-04-16T17:13:17.285Z"
+  },
+  {
+    "ID": 143,
+    "Name": "Animation 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:12:55.786Z",
+    "Updated": "2024-04-16T17:12:55.786Z"
+  },
+  {
+    "ID": 142,
+    "Name": "Animation 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:12:49.146Z",
+    "Updated": "2024-04-16T17:12:49.146Z"
+  },
+  {
+    "ID": 141,
+    "Name": "Medieproduktion 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:11:17.721Z",
+    "Updated": "2024-04-16T17:11:17.721Z"
+  },
+  {
+    "ID": 140,
+    "Name": "Journalistik, reklam och information 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:11:03.469Z",
+    "Updated": "2024-04-16T17:11:03.469Z"
+  },
+  {
+    "ID": 139,
+    "Name": "Kommunikation",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T17:07:44.236Z",
+    "Updated": "2024-04-16T17:07:44.236Z"
+  },
+  {
+    "ID": 138,
+    "Name": "Webbutveckling 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:57:59.265Z",
+    "Updated": "2024-04-16T16:57:59.265Z"
+  },
+  {
+    "ID": 137,
+    "Name": "Webbutveckling 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:57:50.795Z",
+    "Updated": "2024-04-16T16:57:50.795Z"
+  },
+  {
+    "ID": 136,
+    "Name": "Webbserverprogrammering 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:57:39.331Z",
+    "Updated": "2024-04-16T16:57:39.331Z"
+  },
+  {
+    "ID": 135,
+    "Name": "Webbserverprogrammering 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:57:32.757Z",
+    "Updated": "2024-04-16T16:57:32.757Z"
+  },
+  {
+    "ID": 134,
+    "Name": "Träningslära 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:57:21.324Z",
+    "Updated": "2024-04-16T16:57:21.324Z"
+  },
+  {
+    "ID": 133,
+    "Name": "Träningslära 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:57:14.894Z",
+    "Updated": "2024-04-16T16:57:14.894Z"
+  },
+  {
+    "ID": 131,
+    "Name": "Programmering 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:56:02.892Z",
+    "Updated": "2024-04-16T16:56:02.892Z"
+  },
+  {
+    "ID": 130,
+    "Name": "Naturvetenskaplig specialisering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:55:51.851Z",
+    "Updated": "2024-04-16T16:55:51.851Z"
+  },
+  {
+    "ID": 129,
+    "Name": "Matematik 5",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:55:19.058Z",
+    "Updated": "2024-04-16T16:55:19.058Z"
+  },
+  {
+    "ID": 128,
+    "Name": "Konstruktion 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:55:06.662Z",
+    "Updated": "2024-04-16T16:55:06.662Z"
+  },
+  {
+    "ID": 127,
+    "Name": "Konstruktion 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:54:59.457Z",
+    "Updated": "2024-04-16T16:54:59.457Z"
+  },
+  {
+    "ID": 126,
+    "Name": "Kultur- och idéhistoria",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:54:48.674Z",
+    "Updated": "2024-04-16T16:54:48.674Z"
+  },
+  {
+    "ID": 125,
+    "Name": "Miljö- och energikunskap",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:54:10.154Z",
+    "Updated": "2024-04-16T16:54:10.154Z"
+  },
+  {
+    "ID": 124,
+    "Name": "Hållbart samhällsbyggande",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:53:53.164Z",
+    "Updated": "2024-04-16T16:53:53.164Z"
+  },
+  {
+    "ID": 122,
+    "Name": "Historia 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:53:26.180Z",
+    "Updated": "2024-04-16T16:53:26.180Z"
+  },
+  {
+    "ID": 121,
+    "Name": "Geografiska informationssystem",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:53:13.685Z",
+    "Updated": "2024-04-16T16:53:13.685Z"
+  },
+  {
+    "ID": 120,
+    "Name": "Entreprenörskap och företagande",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:53:01.877Z",
+    "Updated": "2024-04-16T16:53:01.877Z"
+  },
+  {
+    "ID": 119,
+    "Name": "Dator- och nätverksteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:51:40.732Z",
+    "Updated": "2024-04-16T16:51:40.732Z"
+  },
+  {
+    "ID": 118,
+    "Name": "Bioteknik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:51:23.439Z",
+    "Updated": "2024-04-16T16:51:23.439Z"
+  },
+  {
+    "ID": 117,
+    "Name": "Tillämpad programmering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:50:03.995Z",
+    "Updated": "2024-04-16T16:50:03.995Z"
+  },
+  {
+    "ID": 116,
+    "Name": "Skrivande",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:49:47.980Z",
+    "Updated": "2024-04-16T16:49:47.980Z"
+  },
+  {
+    "ID": 115,
+    "Name": "Retorik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:49:36.688Z",
+    "Updated": "2024-04-16T16:49:36.688Z"
+  },
+  {
+    "ID": 114,
+    "Name": "Litteratur",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:49:26.176Z",
+    "Updated": "2024-04-16T16:49:26.176Z"
+  },
+  {
+    "ID": 113,
+    "Name": "Sociologi",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:49:15.590Z",
+    "Updated": "2024-04-16T16:49:15.590Z"
+  },
+  {
+    "ID": 112,
+    "Name": "Etnicitet och kulturmöten",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:49:03.935Z",
+    "Updated": "2024-04-16T16:49:03.935Z"
+  },
+  {
+    "ID": 111,
+    "Name": "Samhällskunskap 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:48:23.956Z",
+    "Updated": "2024-04-16T16:48:23.956Z"
+  },
+  {
+    "ID": 110,
+    "Name": "Internationella relationer",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:48:07.513Z",
+    "Updated": "2024-04-16T16:48:07.513Z"
+  },
+  {
+    "ID": 109,
+    "Name": "Internationell ekonomi",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:47:56.134Z",
+    "Updated": "2024-04-16T16:47:56.134Z"
+  },
+  {
+    "ID": 108,
+    "Name": "Religionskunskap 2",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:47:45.100Z",
+    "Updated": "2024-04-16T16:47:45.100Z"
+  },
+  {
+    "ID": 107,
+    "Name": "Religionskunskap – specialisering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:47:23.466Z",
+    "Updated": "2024-04-16T16:47:23.466Z"
+  },
+  {
+    "ID": 106,
+    "Name": "Psykologi 2b",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:47:07.982Z",
+    "Updated": "2024-04-16T16:47:07.982Z"
+  },
+  {
+    "ID": 105,
+    "Name": "Programmering 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:46:26.137Z",
+    "Updated": "2024-04-16T16:46:26.137Z"
+  },
+  {
+    "ID": 104,
+    "Name": "Naturkunskap 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:45:42.864Z",
+    "Updated": "2024-04-16T16:45:42.864Z"
+  },
+  {
+    "ID": 103,
+    "Name": "Moderna språk 7",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:44:59.539Z",
+    "Updated": "2024-04-16T16:44:59.539Z"
+  },
+  {
+    "ID": 102,
+    "Name": "Moderna språk 6",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:44:49.504Z",
+    "Updated": "2024-04-16T16:44:49.504Z"
+  },
+  {
+    "ID": 101,
+    "Name": "Moderna språk 5",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:44:39.440Z",
+    "Updated": "2024-04-16T16:44:39.440Z"
+  },
+  {
+    "ID": 100,
+    "Name": "Moderna språk 4",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:44:28.719Z",
+    "Updated": "2024-04-16T16:44:28.719Z"
+  },
+  {
+    "ID": 99,
+    "Name": "Moderna språk 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:44:21.530Z",
+    "Updated": "2024-04-16T16:44:21.530Z"
+  },
+  {
+    "ID": 98,
+    "Name": "Moderna språk 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:44:13.436Z",
+    "Updated": "2024-04-16T16:44:13.436Z"
+  },
+  {
+    "ID": 91,
+    "Name": "Kinesiska 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:42:42.720Z",
+    "Updated": "2024-04-16T16:42:42.720Z"
+  },
+  {
+    "ID": 90,
+    "Name": "Medier, samhälle och kommunikation 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:42:29.606Z",
+    "Updated": "2024-04-16T16:42:29.606Z"
+  },
+  {
+    "ID": 89,
+    "Name": "Textkommunikation",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:42:18.528Z",
+    "Updated": "2024-04-16T16:42:18.528Z"
+  },
+  {
+    "ID": 88,
+    "Name": "Ledarskap och organisation",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:42:03.397Z",
+    "Updated": "2024-04-16T16:42:03.397Z"
+  },
+  {
+    "ID": 87,
+    "Name": "Information och kommunikation 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:41:21.926Z",
+    "Updated": "2024-04-16T16:41:21.926Z"
+  },
+  {
+    "ID": 86,
+    "Name": "Information och kommunikation 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:41:01.549Z",
+    "Updated": "2024-04-16T16:41:01.549Z"
+  },
+  {
+    "ID": 85,
+    "Name": "Politik och hållbar utveckling",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:40:49.668Z",
+    "Updated": "2024-04-16T16:40:49.668Z"
+  },
+  {
+    "ID": 84,
+    "Name": "Humanistisk och samhällsvetenskaplig\nspecialisering",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:40:36.787Z",
+    "Updated": "2024-04-16T16:40:36.787Z"
+  },
+  {
+    "ID": 83,
+    "Name": "Historia 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:40:14.632Z",
+    "Updated": "2024-04-16T16:40:14.632Z"
+  },
+  {
+    "ID": 82,
+    "Name": "Historia 2a",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:40:04.937Z",
+    "Updated": "2024-04-16T16:40:04.937Z"
+  },
+  {
+    "ID": 81,
+    "Name": "Grafisk kommunikation 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:39:27.543Z",
+    "Updated": "2024-04-16T16:39:27.543Z"
+  },
+  {
+    "ID": 80,
+    "Name": "Geografi 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:39:16.621Z",
+    "Updated": "2024-04-16T16:39:16.621Z"
+  },
+  {
+    "ID": 79,
+    "Name": "Geografi 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:39:08.345Z",
+    "Updated": "2024-04-16T16:39:08.345Z"
+  },
+  {
+    "ID": 78,
+    "Name": "Redovisning 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:38:51.139Z",
+    "Updated": "2024-04-16T16:38:51.139Z"
+  },
+  {
+    "ID": 77,
+    "Name": "Marknadsföring",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:38:37.833Z",
+    "Updated": "2024-04-16T16:38:37.833Z"
+  },
+  {
+    "ID": 76,
+    "Name": "Filosofi 2",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:37:56.821Z",
+    "Updated": "2024-04-16T16:37:56.821Z"
+  },
+  {
+    "ID": 75,
+    "Name": "Engelska 7",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:37:33.155Z",
+    "Updated": "2024-04-16T16:37:33.155Z"
+  },
+  {
+    "ID": 74,
+    "Name": "Affärskommunikation",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:37:19.865Z",
+    "Updated": "2024-04-16T16:37:19.865Z"
+  },
+  {
+    "ID": 73,
+    "Name": "Personaladministration",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:36:56.130Z",
+    "Updated": "2024-04-16T16:36:56.130Z"
+  },
+  {
+    "ID": 72,
+    "Name": "Administration 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:36:43.135Z",
+    "Updated": "2024-04-16T16:36:43.135Z"
+  },
+  {
+    "ID": 71,
+    "Name": "Administration 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:36:35.705Z",
+    "Updated": "2024-04-16T16:36:35.705Z"
+  },
+  {
+    "ID": 70,
+    "Name": "Psykologi 2a",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:35:22.890Z",
+    "Updated": "2024-04-16T16:35:22.890Z"
+  },
+  {
+    "ID": 69,
+    "Name": "Rätten och samhället",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:35:08.146Z",
+    "Updated": "2024-04-16T16:35:08.146Z"
+  },
+  {
+    "ID": 68,
+    "Name": "Affärsjuridik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:34:55.729Z",
+    "Updated": "2024-04-16T16:34:55.729Z"
+  },
+  {
+    "ID": 67,
+    "Name": "Företagsekonomi 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:34:36.348Z",
+    "Updated": "2024-04-16T16:34:36.348Z"
+  },
+  {
+    "ID": 65,
+    "Name": "Barn- och ungdomshälsa",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:29:01.572Z",
+    "Updated": "2024-04-16T16:29:01.572Z"
+  },
+  {
+    "ID": 64,
+    "Name": "Laboratorieteknik",
+    "Points": 200,
+    "Identitet": "",
+    "Created": "2024-04-16T16:28:18.934Z",
+    "Updated": "2024-04-16T16:28:18.934Z"
+  },
+  {
+    "ID": 63,
+    "Name": "Hippologi – anatomi och fysiologi",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:27:56.639Z",
+    "Updated": "2024-04-16T16:27:56.639Z"
+  },
+  {
+    "ID": 62,
+    "Name": "Anatomi och fysiologi 2",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:27:41.128Z",
+    "Updated": "2024-04-16T16:27:41.128Z"
+  },
+  {
+    "ID": 61,
+    "Name": "Anatomi och fysiologi 1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:27:30.809Z",
+    "Updated": "2024-04-16T16:27:30.809Z"
+  },
+  {
+    "ID": 60,
+    "Name": "Biologi i vattenmiljöer 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:26:56.318Z",
+    "Updated": "2024-04-16T16:26:56.318Z"
+  },
+  {
+    "ID": 59,
+    "Name": "Biologi i vattenmiljöer 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:26:50.241Z",
+    "Updated": "2024-04-16T16:26:50.241Z"
+  },
+  {
+    "ID": 58,
+    "Name": "Biologi i vattenmiljöer 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:26:41.303Z",
+    "Updated": "2024-04-16T16:26:41.303Z"
+  },
+  {
+    "ID": 57,
+    "Name": "Biologi 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:26:06.862Z",
+    "Updated": "2024-04-16T16:26:06.862Z"
+  },
+  {
+    "ID": 56,
+    "Name": "Kemi 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:25:18.333Z",
+    "Updated": "2024-04-16T16:25:18.333Z"
+  },
+  {
+    "ID": 55,
+    "Name": "Fysik 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:24:48.735Z",
+    "Updated": "2024-04-16T16:24:48.735Z"
+  },
+  {
+    "ID": 54,
+    "Name": "Fysik 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:24:31.432Z",
+    "Updated": "2024-04-16T16:24:31.432Z"
+  },
+  {
+    "ID": 53,
+    "Name": "Fysik 1 b2",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:24:12.672Z",
+    "Updated": "2024-04-16T16:24:12.672Z"
+  },
+  {
+    "ID": 52,
+    "Name": "Fysik 1b1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:23:49.625Z",
+    "Updated": "2024-04-16T16:23:49.625Z"
+  },
+  {
+    "ID": 51,
+    "Name": "Matematik 4",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:22:50.200Z",
+    "Updated": "2024-04-21T09:43:10.771Z"
+  },
+  {
+    "ID": 50,
+    "Name": "Matematik 3b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:22:33.606Z",
+    "Updated": "2024-04-21T09:43:01.701Z"
+  },
+  {
+    "ID": 48,
+    "Name": "Naturbruk",
+    "Points": 200,
+    "Identitet": "",
+    "Created": "2024-04-16T16:20:18.087Z",
+    "Updated": "2024-04-16T16:20:18.087Z"
+  },
+  {
+    "ID": 47,
+    "Name": "Produktionsutrustning 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:19:42.718Z",
+    "Updated": "2024-04-16T16:19:42.718Z"
+  },
+  {
+    "ID": 46,
+    "Name": "Produktionskunskap 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:19:27.318Z",
+    "Updated": "2024-04-16T16:19:27.318Z"
+  },
+  {
+    "ID": 45,
+    "Name": "Människan i industrin 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:18:46.588Z",
+    "Updated": "2024-04-16T16:18:46.588Z"
+  },
+  {
+    "ID": 44,
+    "Name": "Industritekniska processer 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:18:32.153Z",
+    "Updated": "2024-04-16T16:18:32.153Z"
+  },
+  {
+    "ID": 43,
+    "Name": "Information och kommunikation 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:18:04.629Z",
+    "Updated": "2024-04-16T16:18:04.629Z"
+  },
+  {
+    "ID": 42,
+    "Name": "Branschkunskap inom handel och administration",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:17:53.001Z",
+    "Updated": "2024-04-16T16:17:53.001Z"
+  },
+  {
+    "ID": 41,
+    "Name": "Servicekunskap",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:17:39.778Z",
+    "Updated": "2024-04-16T16:17:39.778Z"
+  },
+  {
+    "ID": 40,
+    "Name": "Entrepenörskap",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:17:23.664Z",
+    "Updated": "2024-04-16T16:17:23.664Z"
+  },
+  {
+    "ID": 39,
+    "Name": "Mekatronik 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:16:52.185Z",
+    "Updated": "2024-04-16T16:16:52.185Z"
+  },
+  {
+    "ID": 37,
+    "Name": "Elektromekanik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:16:15.786Z",
+    "Updated": "2024-04-16T16:16:15.786Z"
+  },
+  {
+    "ID": 35,
+    "Name": "Hälsopedagogik",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:15:03.831Z",
+    "Updated": "2024-04-16T16:15:03.831Z"
+  },
+  {
+    "ID": 34,
+    "Name": "Samhällskunskap 1a1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:14:42.293Z",
+    "Updated": "2024-04-16T16:14:42.293Z"
+  },
+  {
+    "ID": 33,
+    "Name": "Naturkunskap 1a1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:14:17.641Z",
+    "Updated": "2024-04-16T16:14:17.641Z"
+  },
+  {
+    "ID": 32,
+    "Name": "Matematik 1a",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:14:01.712Z",
+    "Updated": "2024-04-21T09:42:53.514Z"
+  },
+  {
+    "ID": 31,
+    "Name": "Historia 1a1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:13:34.080Z",
+    "Updated": "2024-04-16T16:13:34.080Z"
+  },
+  {
+    "ID": 30,
+    "Name": "Konstarterna och samhället",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:12:44.912Z",
+    "Updated": "2024-04-16T16:12:44.912Z"
+  },
+  {
+    "ID": 29,
+    "Name": "Estetisk kommunikation 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:12:23.098Z",
+    "Updated": "2024-04-16T16:12:23.098Z"
+  },
+  {
+    "ID": 28,
+    "Name": "Moderna språk",
+    "Points": 200,
+    "Identitet": "",
+    "Created": "2024-04-16T16:11:31.984Z",
+    "Updated": "2024-04-16T16:11:31.984Z"
+  },
+  {
+    "ID": 27,
+    "Name": "Människans språk 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:11:15.491Z",
+    "Updated": "2024-04-16T16:11:15.491Z"
+  },
+  {
+    "ID": 26,
+    "Name": "Historia 2b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:10:44.911Z",
+    "Updated": "2024-04-16T16:10:44.911Z"
+  },
+  {
+    "ID": 25,
+    "Name": "Privatjuridik",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:09:52.913Z",
+    "Updated": "2024-04-16T16:09:52.913Z"
+  },
+  {
+    "ID": 24,
+    "Name": "Företagsekonomi 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:09:35.334Z",
+    "Updated": "2024-04-16T16:09:35.334Z"
+  },
+  {
+    "ID": 23,
+    "Name": "Samhällskunskap 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T16:09:16.468Z",
+    "Updated": "2024-04-16T16:09:16.468Z"
+  },
+  {
+    "ID": 22,
+    "Name": "Psykologi 1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T16:07:33.683Z",
+    "Updated": "2024-04-16T16:07:33.683Z"
+  },
+  {
+    "ID": 21,
+    "Name": "Filosofi 1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T09:55:32.129Z",
+    "Updated": "2024-04-16T09:55:32.129Z"
+  },
+  {
+    "ID": 20,
+    "Name": "Naturkunskap 1b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:54:50.976Z",
+    "Updated": "2024-04-16T09:54:50.976Z"
+  },
+  {
+    "ID": 19,
+    "Name": "Matematik 2b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:54:27.586Z",
+    "Updated": "2024-04-21T09:42:38.750Z"
+  },
+  {
+    "ID": 18,
+    "Name": "Matematik 1b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:54:12.737Z",
+    "Updated": "2024-04-21T09:42:24.951Z"
+  },
+  {
+    "ID": 17,
+    "Name": "Moderna språk 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:52:35.101Z",
+    "Updated": "2024-04-16T09:52:35.101Z"
+  },
+  {
+    "ID": 16,
+    "Name": "Kemi 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:52:18.510Z",
+    "Updated": "2024-04-16T09:52:18.510Z"
+  },
+  {
+    "ID": 15,
+    "Name": "Fysik 1a",
+    "Points": 150,
+    "Identitet": "",
+    "Created": "2024-04-16T09:52:06.051Z",
+    "Updated": "2024-04-16T09:52:06.051Z"
+  },
+  {
+    "ID": 14,
+    "Name": "Biologi 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:51:54.504Z",
+    "Updated": "2024-04-16T09:51:54.504Z"
+  },
+  {
+    "ID": 13,
+    "Name": "Svenska 3 / Svenska som andra språk 3",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:51:35.338Z",
+    "Updated": "2024-04-19T12:07:20.592Z"
+  },
+  {
+    "ID": 12,
+    "Name": "Svenska 2 / Svenska som andra språk 2",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:39:13.411Z",
+    "Updated": "2024-04-16T09:39:13.411Z"
+  },
+  {
+    "ID": 11,
+    "Name": "Svenska 1 / Svenska som andra språk 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:38:57.568Z",
+    "Updated": "2024-04-16T09:38:57.568Z"
+  },
+  {
+    "ID": 10,
+    "Name": "Samhällskunskap 1b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:38:14.661Z",
+    "Updated": "2024-05-06T12:06:47.675Z"
+  },
+  {
+    "ID": 9,
+    "Name": "Religionskunskap 1",
+    "Points": 50,
+    "Identitet": "",
+    "Created": "2024-04-16T09:37:54.382Z",
+    "Updated": "2024-04-16T09:37:54.382Z"
+  },
+  {
+    "ID": 8,
+    "Name": "Matematik 3c",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-16T09:37:21.647Z",
+    "Updated": "2024-04-21T09:42:16.006Z"
+  },
+  {
+    "ID": 6,
+    "Name": "Matematik 2c",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-15T13:33:17.496Z",
+    "Updated": "2024-04-21T09:41:23.436Z"
+  },
+  {
+    "ID": 5,
+    "Name": "Matematik 1c",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-15T13:33:07.357Z",
+    "Updated": "2024-04-21T09:41:07.957Z"
+  },
+  {
+    "ID": 4,
+    "Name": "Idrott och Hälsa 1",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-15T13:32:54.585Z",
+    "Updated": "2024-04-15T13:32:54.585Z"
+  },
+  {
+    "ID": 3,
+    "Name": "Historia 1b",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-15T13:32:31.574Z",
+    "Updated": "2024-04-15T13:32:37.750Z"
+  },
+  {
+    "ID": 2,
+    "Name": "Engelska 6",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-15T13:32:13.148Z",
+    "Updated": "2024-04-15T13:32:13.148Z"
+  },
+  {
+    "ID": 1,
+    "Name": "Engelska 5",
+    "Points": 100,
+    "Identitet": "",
+    "Created": "2024-04-15T13:31:18.384Z",
+    "Updated": "2024-04-15T13:31:18.384Z"
+  }
+]
