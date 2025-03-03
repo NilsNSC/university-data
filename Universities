@@ -1,0 +1,48 @@
+{
+  "universitet": [
+    {"name": "Uppsala universitet", "description": ""},
+    {"name": "Lunds universitet", "description": ""},
+    {"name": "Göteborgs universitet", "description": ""},
+    {"name": "Stockholms universitet", "description": ""},
+    {"name": "Umeå universitet", "description": ""},
+    {"name": "Linköpings universitet", "description": ""},
+    {"name": "Karolinska institutet", "description": ""},
+    {"name": "Kungliga Tekniska högskolan (KTH)", "description": ""},
+    {"name": "Luleå tekniska universitet", "description": ""},
+    {"name": "Karlstads universitet", "description": ""},
+    {"name": "Linnéuniversitetet", "description": ""},
+    {"name": "Örebro universitet", "description": ""},
+    {"name": "Malmö universitet", "description": ""},
+    {"name": "Mittuniversitetet", "description": ""},
+    {"name": "Mälardalens universitet", "description": ""}
+  ],
+  "högskolor": [
+    {"name": "Blekinge tekniska högskola", "description": ""},
+    {"name": "Försvarshögskolan", "description": ""},
+    {"name": "Gymnastik- och idrottshögskolan (GIH)", "description": ""},
+    {"name": "Högskolan Dalarna", "description": ""},
+    {"name": "Högskolan i Borås", "description": ""},
+    {"name": "Högskolan i Gävle", "description": ""},
+    {"name": "Högskolan i Halmstad", "description": ""},
+    {"name": "Högskolan i Skövde", "description": ""},
+    {"name": "Högskolan Kristianstad", "description": ""},
+    {"name": "Högskolan Väst", "description": ""},
+    {"name": "Konstfack", "description": ""},
+    {"name": "Kungliga Musikhögskolan i Stockholm", "description": ""},
+    {"name": "Södertörns högskola", "description": ""},
+    {"name": "Stockholms konstnärliga högskola", "description": ""}
+  ],
+  "enskilda_utbildningsanordnare": [
+    {"name": "Beckmans designhögskola", "description": ""},
+    {"name": "Chalmers tekniska högskola", "description": ""},
+    {"name": "Enskilda Högskolan Stockholm", "description": ""},
+    {"name": "Ersta Sköndal Bräcke högskola", "description": ""},
+    {"name": "Handelshögskolan i Stockholm", "description": ""},
+    {"name": "Johannelunds teologiska högskola", "description": ""},
+    {"name": "Jönköping University", "description": ""},
+    {"name": "Newmaninstitutet", "description": ""},
+    {"name": "Sophiahemmet Högskola", "description": ""},
+    {"name": "Stockholms Musikpedagogiska Institut", "description": ""},
+    {"name": "Teologiska Högskolan Stockholm", "description": ""}
+  ]
+}
