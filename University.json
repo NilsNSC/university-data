@@ -4,272 +4,276 @@
     "Name": "Blekinge tekniska högskola",
     "Created": "2024-05-23T07:12:31.776Z",
     "Updated": "2024-05-23T07:12:31.776Z",
-    "Description": ""
+    "Description": "Statlig högskola grundad 1989 med huvudsäte i Karlskrona och Karlshamn. Fokuserar på tekniska utbildningar inom programvaruteknik, datavetenskap, design och digitala medier. Känd för stark branschsamverkan, tillämpad forskning och innovativa utbildningsprogram. Erbjuder utbildningar på kandidat-, magister- och masternivå med tydlig inriktning mot digitala teknologier, systemutveckling och teknisk innovation. Har internationella samarbeten och ett nära samarbete med näringslivet, vilket ger studenterna goda karriärmöjligheter inom teknik- och IT-sektorn."
   },
   {
     "ID": 38,
     "Name": "Enskilda Högskolan Stockholm",
     "Created": "2024-05-23T07:12:02.178Z",
     "Updated": "2024-05-23T07:12:02.178Z",
-    "Description": ""
+    "Description": "Privat högskoleinstitution belägen i Stockholm med fokus på samhällsvetenskapliga och humanistiska utbildningar. Erbjuder unika utbildningsprogram med små studentgrupper och individuell handledning. Kännetecknas av personlig pedagogik, kritiskt tänkande och internationell outlook. Har ett brett utbud av kandidat- och masterutbildningar inom områden som ledarskap, kommunikation, kulturstudier och samhällsanalys."
   },
   {
     "ID": 37,
     "Name": "Försvarshögskolan Stockholm",
     "Created": "2024-05-23T07:11:45.837Z",
     "Updated": "2024-05-23T07:11:45.837Z",
-    "Description": ""
+    "Description": "Statlig högskola specialiserad på militär och säkerhetspolitisk utbildning och forskning. Belägen i Stockholm och har en central roll inom Sveriges försvars- och säkerhetssektorn. Erbjuder utbildningar för militär personal, civila statsanställda och internationella studenter inom försvarsvetenskap, militär strategi, säkerhetspolitik och ledarskap. Bedriver avancerad forskning och bidrar aktivt till nationell säkerhetskompetens."
   },
   {
     "ID": 36,
     "Name": "Gymnastik- och idrottshögskolan",
     "Created": "2024-05-23T07:11:33.406Z",
     "Updated": "2024-05-23T07:11:33.406Z",
-    "Description": ""
+    "Description": "Specialiserad statlig högskola i Stockholm fokuserad på idrott, fysisk aktivitet och hälsa. Erbjuder unika utbildningsprogram för blivande tränare, idrottslärare, hälsovetare och forskare. Bedriver banbrytande forskning inom idrottsmedicin, träningsfysiologi och idrottspedagogik. Känd för hög kvalitet på lärarutbildningar och praktiska träningsprogram med starka kopplingar till idrottsrörelsen."
   },
   {
     "ID": 35,
     "Name": "Göteborgs universitet",
     "Created": "2024-05-23T07:11:04.817Z",
     "Updated": "2024-05-23T07:11:04.817Z",
-    "Description": ""
+    "Description": "Ett av Sveriges största och mest kompletta lärosäten, beläget i Göteborg. Erbjuder ett brett spektrum av utbildningar och forskningsområden inom humaniora, samhällsvetenskap, naturvetenskap, IT, medicin och konst. Internationellt erkänt för sin mångvetenskapliga approach, starka forskningsmiljöer och omfattande internationella samarbeten. Har över 50 000 studenter och är känt för sin innovativa och inkluderande akademiska miljö."
   },
   {
     "ID": 34,
     "Name": "Handelshögskolan i Stockholm",
     "Created": "2024-05-23T07:10:55.017Z",
     "Updated": "2024-05-23T07:10:55.017Z",
-    "Description": ""
+    "Description": "Prestigefylld privat handelshögskola med världsrykte, grundad 1909. Internationellt erkänd för sin högkvalitativa ekonomutbildning och forskning. Känd för extremely selektiv antagning, högsta standard inom ekonomi, företagsledning och nationalekonomi. Har starka band till näringslivet, framstående alumnnätverk och är bland de främsta ekonomiutbildningarna globalt. Erbjuder kandidat-, magister- och masterprogram på högsta internationella nivå."
   },
   {
     "ID": 33,
     "Name": "Högskolan Dalarna",
     "Created": "2024-05-23T07:10:34.102Z",
     "Updated": "2024-05-23T07:10:34.102Z",
-    "Description": ""
+    "Description": "Regional högskola med campus i Falun och Borlänge, känd för sina praktiskt inriktade utbildningar och starka koppling till regionalt näringsliv. Erbjuder utbildningar inom vård, turism, IT, design, språk och samhällsvetenskap. Fokuserar på tillämpad forskning med tydlig regional förankring och ser till studenternas anställningsbarhet genom nära samarbete med lokala och nationella arbetsgivare."
   },
   {
+   
     "ID": 32,
     "Name": "Högskolan i Gävle",
     "Created": "2024-05-23T07:10:26.860Z",
     "Updated": "2024-05-23T07:10:26.860Z",
-    "Description": ""
+    "Description": "Regional högskola belägen i Gävle med fokus på hållbar samhällsutveckling, pedagogik, teknik och miljövetenskap. Erbjuder praktiskt inriktade utbildningar med stark koppling till näringslivet och regionala behov. Känd för sin forskning inom byggteknik, vårdvetenskap och innovativa utbildningsprogram som förbereder studenter för arbetsmarknaden."
   },
   {
     "ID": 31,
     "Name": "Högskolan i Borås",
     "Created": "2024-05-23T07:10:12.056Z",
     "Updated": "2024-05-23T07:10:12.056Z",
-    "Description": ""
+    "Description": "Högskola med unik profil inom textil, design, biblioteks- och informationsvetenskap. Belägen i Borås med starka band till den textila industrin och moderna design. Erbjuder innovativa utbildningsprogram som kombinerar kreativitet, teknologi och samhällsvetenskap. Känd för sin praktiska approach och nära samarbete med näringsliv och internationella partners."
   },
   {
     "ID": 30,
     "Name": "Högskolan i Halmstad",
     "Created": "2024-05-23T07:10:04.475Z",
     "Updated": "2024-05-23T07:10:04.475Z",
-    "Description": ""
+    "Description": "Modern högskola med fokus på innovation, teknologi och hållbar utveckling. Erbjuder utbildningar inom teknik, ekonomi, informatik och kommunikation. Känd för sina forskningscentra inom innovationssystem, mikroteknologi och hälsoteknik. Har ett starkt entreprenöriellt förhållningssätt och nära samarbete med regionalt och nationellt näringsliv."
   },
   {
     "ID": 29,
     "Name": "Högskolan i Skövde",
     "Created": "2024-05-23T07:09:49.801Z",
     "Updated": "2024-05-23T07:09:49.801Z",
-    "Description": ""
+    "Description": "Tekniskt inriktad högskola med excellens inom dataspelsutveckling, informationsteknologi och vårdvetenskap. Belägen i Skövde med internationellt erkänd spelutbildning och forskningsprogram. Fokuserar på tillämpad forskning och utbildningar som direkt förbereder studenter för moderna arbetsmarknaden."
   },
   {
     "ID": 28,
     "Name": "Högskolan Kristianstad",
     "Created": "2024-05-23T07:09:42.860Z",
     "Updated": "2024-05-23T07:09:42.860Z",
-    "Description": ""
+    "Description": "Regional högskola med starka utbildningsprogram inom hälsovetenskap, lärarutbildning och naturvetenskap. Belägen i Kristianstad med tydlig profil inom hållbar samhällsutveckling och praktiskt orienterade utbildningar. Kännetecknas av nära samverkan med lokalt näringsliv och offentlig sektor."
   },
   {
     "ID": 27,
     "Name": "Högskolan Väst",
     "Created": "2024-05-23T07:09:27.632Z",
     "Updated": "2024-05-23T07:09:27.632Z",
-    "Description": ""
+    "Description": "Högskola med särskilt fokus på arbetsintegrerat lärande och industriellt utvecklingsarbete. Belägen i Trollhättan med starka band till västsvensk industri och näringsliv. Erbjuder innovativa utbildningsprogram som kombinerar akademisk kunskap med praktisk tillämpning."
   },
   {
     "ID": 26,
     "Name": "Johannelunds teologiska högskola",
     "Created": "2024-05-23T07:08:47.885Z",
     "Updated": "2024-05-23T07:08:47.885Z",
-    "Description": ""
+    "Description": "Konfessionell teologisk högskola med evangelical kristen inriktning. Fokuserar på teologisk utbildning, pastorsutbildning och religionsvetenskapliga studier. Erbjuder programme som förbereder studenter för kyrkligt och religiöst ledarskap med djup förankring i kristen trostradition."
   },
   {
     "ID": 25,
     "Name": "Jönköpings universitet",
     "Created": "2024-05-23T07:08:25.207Z",
     "Updated": "2024-05-23T07:08:25.207Z",
-    "Description": ""
+    "Description": "Internationellt orienterat lärosäte med tydlig profilering inom entreprenörskap, internationella relationer och tillämpad forskning. Erbjuder utbildningar inom bland annat teknik, ekonomi, hälsa och pedagogik. Känt för sin innovativa pedagogik och starka kopplingar till näringsliv och internationella samarbeten."
   },
   {
     "ID": 24,
     "Name": "Karlstads universitet",
     "Created": "2024-05-23T07:08:07.006Z",
     "Updated": "2024-05-23T07:08:07.006Z",
-    "Description": ""
+    "Description": "Dynamiskt universitetet beläget i Värmland med starka utbildningsprogram inom samhällsvetenskap, naturvetenskap och humaniora. Känt för sin forskning inom miljö, klimat och hållbar utveckling. Erbjuder moderna utbildningar som förbereder studenter för en föränderlig arbetsmarknad."
   },
   {
     "ID": 23,
     "Name": "Karolinska institutet",
     "Created": "2024-05-23T07:07:50.936Z",
     "Updated": "2024-05-23T07:07:50.936Z",
-    "Description": ""
+    "Description": "Världsledande medicinskt universitetet med global ryktbarhet inom medicinsk forskning och utbildning. Ansvarar för Nobelpriset i fysiologi eller medicin. Bedriver banbrytande forskning inom medicin, hälsa och life science med högsta internationella standard. Erkänt som ett av världens främsta medicinska lärosäten."
   },
   {
     "ID": 22,
     "Name": "Konstfack",
     "Created": "2024-05-23T07:07:40.150Z",
     "Updated": "2024-05-23T07:07:40.150Z",
-    "Description": ""
+    "Description": "Skandinaviens största konsthögskola med utbildningar inom konst, design, konsthantverk och bildpedagogik. Belägen i Stockholm med internationellt erkänd kreativ utbildningsmiljö. Fokuserar på konstnärlig innovation, kritiskt tänkande och samtida konstuttryck."
   },
   {
     "ID": 21,
     "Name": "Kungl. Tekniska högskolan",
     "Created": "2024-05-23T07:07:25.925Z",
     "Updated": "2024-10-02T15:03:00.558Z",
-    "Description": ""
+    "Description": "Sveriges äldsta och främsta tekniska högskola med världsrykte inom teknisk forskning och innovation. Erbjuder spetskompetens inom tekniska vetenskaper, arkitektur, samhällsbyggnad och design. Internationellt erkänt lärosäte med banbrytande forskning och starka industriella samarbeten."
   },
   {
     "ID": 20,
     "Name": "Kungliga Musikhögskolan i Stockholm",
     "Created": "2024-05-23T07:07:07.676Z",
     "Updated": "2024-05-23T07:07:07.676Z",
-    "Description": ""
+    "Description": "Nationens främsta musikutbildningsinstitution med över 200 år av musikpedagogisk tradition. Erbjuder högklassig utbildning inom klassisk musik, jazz, komposition och musikpedagogik. Internationellt erkänd for sin konstnärliga excellens och betydande bidrag till svensk musikkultur."
   },
   {
     "ID": 19,
     "Name": "Linköpings universitet",
     "Created": "2024-05-23T07:06:34.596Z",
     "Updated": "2024-05-23T07:06:34.596Z",
-    "Description": ""
+    "Description": "Modernt forskningsuniversitet känt för sina starka program inom teknologi, medicin, samhällsvetenskap och kommunikation. Internationellt erkänd för innovation, tvärvetenskaplig forskning och nära samarbete med näringsliv. Erbjuder kreativa utbildningsmiljöer som uppmuntrar entreprenörskap."
   },
   {
     "ID": 18,
     "Name": "Linnéuniversitetet",
     "Created": "2024-05-23T07:06:16.464Z",
     "Updated": "2024-05-23T07:06:16.464Z",
-    "Description": ""
+    "Description": "Ungt, dynamiskt universitet skapat genomsammanslagning av Växjö och Kalmar högskolor. Erbjuder brett spektrum av utbildningar inom design, naturvetenskap, samhällsvetenskap och kulturstudier. Känt för sin innovations- och hållbarhetsprofil samt starka internationella samarbeten."
   },
   {
     "ID": 17,
     "Name": "Luleå tekniska universitet",
     "Created": "2024-05-13T16:49:36.914Z",
     "Updated": "2024-05-13T16:49:36.914Z",
-    "Description": ""
+    "Description": "Tekniskt inriktat universitetet i norra Sverige med stark forskningsprofil inom gruvteknik, rymdvetenskap, industriell design och hållbar samhällsutveckling. Nära kopplingar till nordlig industri och internationella forskningssamarbeten. Erbjuder innovativa utbildningar som förbereder studenter för globala tekniska utmaningar."
   },
   {
     "ID": 16,
     "Name": "Lunds universitet",
     "Created": "2024-05-13T16:49:09.758Z",
     "Updated": "2024-05-13T16:49:09.758Z",
-    "Description": ""
+    "Description": "Ett av Sveriges äldsta och mest prestigefyllda universitetet, grundat 1666. Internationellt erkänt forskningsuniversitet med excellens inom naturvetenskap, humaniora, samhällsvetenskap och medicin. Bred och djup akademisk bredd med nobelpristagare och banbrytande forskningsinsatser."
   },
   {
     "ID": 15,
     "Name": "Malmö universitet",
     "Created": "2024-05-13T16:49:01.706Z",
     "Updated": "2024-05-13T16:49:01.706Z",
-    "Description": ""
+    "Description": "Modernt universitetet med tydlig profil inom hållbar samhällsutveckling, migration, urbana studier och teknologisk innovation. Beläget i en av Sveriges mest mångkulturella städer med internationell utblick och samhällsengagerade utbildningsprogram."
   },
   {
     "ID": 14,
     "Name": "Marie Cederschiöld Högskola",
     "Created": "2024-05-13T16:48:49.309Z",
     "Updated": "2024-05-13T16:48:49.309Z",
-    "Description": ""
+    "Description": "Privat högskoleinstitution med fokus på vårdvetenskap, socialt arbete och pedagogiska utbildningar. Kännetecknas av personlig handledning, praktisk inriktning och starka yrkesetiska värderingar. Erbjuder högkvalitativa utbildningar som förbereder studenter för viktiga samhällstjänster."
   },
   {
     "ID": 13,
     "Name": "Mittuniversitet",
     "Created": "2024-05-13T16:48:23.735Z",
     "Updated": "2024-05-13T16:48:23.735Z",
-    "Description": ""
+    "Description": "Universitetet med campus i Sundsvall, Östersund och Härnösand. Profilerat inom digital medieteknik, klimat- och miljöforskning samt samisk kultur. Starka forskningsområden inkluderar informationssystem, medieteknologi och hållbar samhällsutveckling."
   },
   {
     "ID": 12,
     "Name": "Sophiahemmet högskola",
     "Created": "2024-05-13T16:47:43.410Z",
     "Updated": "2024-05-13T16:47:43.410Z",
-    "Description": ""
+    "Description": "Privat vårdutbildningsinstitution med över 130 år av tradition inom sjuksköterskeutbildning. Associerad med Sophiahemmet sjukhus med högkvalitativa utbildningar inom vårdvetenskap och hälsa. Kombinerar akademisk excellens med praktisk vårdutbildning."
   },
   {
     "ID": 11,
     "Name": "Mälardalens universitet",
     "Created": "2024-05-12T18:05:47.212Z",
     "Updated": "2024-05-12T18:05:47.212Z",
-    "Description": ""
+    "Description": "Modernt universitetet med starka program inom ingenjörsvetenskap, informationsteknologi, vård och samhällsvetenskap. Känt för sina innovativa utbildningar, nära samarbete med industrin och fokus på regionalt utvecklingsarbete. Erbjuder flexibla studieformer och internationella möjligheter."
   },
   {
     "ID": 10,
     "Name": "Newmaninstitutet",
     "Created": "2024-05-12T18:04:21.735Z",
     "Updated": "2024-05-12T18:04:21.735Z",
-    "Description": ""
+    "Description": "Privat forskningsinstitut med katolsk kristen värdegrund. Fokuserar på filosofi, teologi och humanistiska studier. Erbjuder små, personliga utbildningsprogram med djup akademisk och andlig förankring."
   },
   {
     "ID": 9,
     "Name": "Röda korsets högskola",
     "Created": "2024-05-12T18:03:55.035Z",
     "Updated": "2024-05-12T18:03:55.035Z",
-    "Description": ""
+    "Description": "Specialiserad högskola inom vårdvetenskap med grund i Röda Korsets humanitära principer. Erbjuder högkvalitativa utbildningar för sjuksköterskor och specialistsjuksköterskor med ett globalt humanitärt perspektiv."
   },
   {
-    "ID": 8,
+   "ID": 8,
     "Name": "Stockholms konstnärliga högskola",
     "Created": "2024-05-12T18:03:35.603Z",
     "Updated": "2024-05-12T18:03:58.844Z",
-    "Description": ""
+    "Description": "Ledande konstnärlig högskola som samlar utbildningar inom teater, dans, cirkus, opera och film. Erbjuder unika konstnärliga utbildningsprogram med internationell standard och kreativ forskningsansats. Fokuserar på konstnärlig utveckling, sceniska uttryck och samtida performativa konstformer."
   },
   {
     "ID": 7,
     "Name": "Sveriges lantbruksuniversitet",
     "Created": "2024-05-12T18:03:01.826Z",
     "Updated": "2024-05-12T18:03:01.826Z",
-    "Description": ""
+    "Description": "Nationellt ledande universitetet inom lantbruk, skogsbruk, livsmedel och miljövetenskap. Bedriver banbrytande forskning om hållbar markanvändning, djurhållning och naturresurser. Erbjuder unika utbildningsprogram som kombinerar vetenskap, ekologi och praktisk naturresurshantering."
   },
   {
     "ID": 6,
     "Name": "Södertörns högskola",
     "Created": "2024-05-12T18:02:44.606Z",
     "Updated": "2024-05-12T18:02:44.606Z",
-    "Description": ""
+    "Description": "Progressiv högskola med tydlig samhällsvetenskaplig och humanistisk profil. Särskilt känd för mångvetenskapliga forskningsprogram, internationell orientering och kritiskt samhällsperspektiv. Belägen i Stockholmsregionen med fokus på migration, demokrati och samtida samhällsutmaningar."
   },
   {
     "ID": 5,
     "Name": "Umeå universitet",
     "Created": "2024-05-12T18:02:29.361Z",
     "Updated": "2024-05-12T18:02:29.361Z",
-    "Description": ""
+    "Description": "Brett forskningsuniversitet i norra Sverige med starka program inom medicin, samhällsvetenskap, humaniora och naturvetenskap. Internationellt erkänt för sin forskning inom klimat, miljö och arktiska studier. Erbjuder innovativa utbildningar med tydlig forskningsanknytning."
   },
   {
     "ID": 4,
     "Name": "Uppsala universitet",
     "Created": "2024-05-12T18:02:19.677Z",
     "Updated": "2024-05-12T18:02:19.677Z",
-    "Description": ""
+    "Description": "Sveriges äldsta universitetet, grundat 1477, med världsrykte inom forskning och utbildning. Internationellt ledande inom humaniora, samhällsvetenskap, naturvetenskap och medicin. Har producerat ett flertal nobelpristagare och är känt för sin akademiska excellens och historiska betydelse."
   },
   {
     "ID": 3,
     "Name": "Örebro universitet",
     "Created": "2024-05-12T18:02:11.041Z",
     "Updated": "2024-05-12T18:02:11.041Z",
-    "Description": ""
+    "Description": "Modernt universitetet med starka forskningsprofiler inom hälsa, vård, juridik och samhällsvetenskap. Känt för sina innovativa utbildningsprogram, tvärvetenskapliga forskningscentra och flexibla studieformer. Erbjuder en dynamisk akademisk miljö med tydlig samhällsrelevans."
   },
   {
     "ID": 2,
     "Name": "Stockholms universitet",
     "Created": "2024-05-12T17:59:46.302Z",
     "Updated": "2024-05-12T17:59:46.302Z",
-    "Description": ""
+    "Description": "Omfattande forskningsuniversitet beläget i Stockholm med breda utbildningsprogram inom humaniora, samhällsvetenskap, naturvetenskap och juridik. Internationellt erkänt för sin forskningskvalitet, mångvetenskapliga approach och starka akademiska traditioner."
   },
   {
     "ID": 1,
     "Name": "Chalmers tekniska högskola",
     "Created": "2024-05-12T17:59:34.873Z",
     "Updated": "2024-05-12T17:59:34.873Z",
-    "Description": ""
+    "Description": "Framstående tekniskt universitet med världsrykte inom ingenjörsvetenskap, arkitektur och teknologisk innovation. Beläget i Göteborg med starka band till internationell industri och forskning. Känt för högkvalitativa utbildningsprogram, entreprenöriell anda och banbrytande teknologisk forskning."
   }
 ]
+
+
+
