@@ -1,0 +1,422 @@
+[
+  {
+    "activity": "Ät frukost",
+    "start": "2025-03-24T07:00:00",
+    "end": "2025-03-24T08:00:00",
+    "color": "#FDD835"
+  },
+  {
+    "activity": "Pendla till jobb/plugg",
+    "start": "2025-03-24T08:00:00",
+    "end": "2025-03-24T09:00:00",
+    "color": "#5E35B1"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-24T09:00:00",
+    "end": "2025-03-24T12:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Lunch",
+    "start": "2025-03-24T12:00:00",
+    "end": "2025-03-24T13:00:00",
+    "color": "#FB8C00"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-24T13:00:00",
+    "end": "2025-03-24T17:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Gymma",
+    "start": "2025-03-24T17:00:00",
+    "end": "2025-03-24T18:00:00",
+    "color": "#E53935"
+  },
+  {
+    "activity": "Middag",
+    "start": "2025-03-24T18:00:00",
+    "end": "2025-03-24T19:00:00",
+    "color": "#1E88E5"
+  },
+  {
+    "activity": "Plugga eller projektarbete",
+    "start": "2025-03-24T19:00:00",
+    "end": "2025-03-24T21:00:00",
+    "color": "#9C27B0"
+  },
+  {
+    "activity": "Chilla",
+    "start": "2025-03-24T21:00:00",
+    "end": "2025-03-24T22:00:00",
+    "color": "#757575"
+  },
+  {
+    "activity": "Förberedelse för sänggående",
+    "start": "2025-03-24T22:00:00",
+    "end": "2025-03-24T23:00:00",
+    "color": "#757575"
+  },
+
+  {
+    "activity": "Ät frukost",
+    "start": "2025-03-25T07:00:00",
+    "end": "2025-03-25T08:00:00",
+    "color": "#FDD835"
+  },
+  {
+    "activity": "Pendla till jobb/plugg",
+    "start": "2025-03-25T08:00:00",
+    "end": "2025-03-25T09:00:00",
+    "color": "#5E35B1"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-25T09:00:00",
+    "end": "2025-03-25T12:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Lunch",
+    "start": "2025-03-25T12:00:00",
+    "end": "2025-03-25T13:00:00",
+    "color": "#FB8C00"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-25T13:00:00",
+    "end": "2025-03-25T16:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Möte eller grupparbete",
+    "start": "2025-03-25T16:00:00",
+    "end": "2025-03-25T17:00:00",
+    "color": "#3949AB"
+  },
+  {
+    "activity": "Gymma",
+    "start": "2025-03-25T17:00:00",
+    "end": "2025-03-25T18:00:00",
+    "color": "#E53935"
+  },
+  {
+    "activity": "Middag",
+    "start": "2025-03-25T18:00:00",
+    "end": "2025-03-25T19:00:00",
+    "color": "#1E88E5"
+  },
+  {
+    "activity": "Familjetid eller projekt",
+    "start": "2025-03-25T19:00:00",
+    "end": "2025-03-25T21:00:00",
+    "color": "#9C27B0"
+  },
+  {
+    "activity": "Chilla",
+    "start": "2025-03-25T21:00:00",
+    "end": "2025-03-25T22:00:00",
+    "color": "#757575"
+  },
+
+  {
+    "activity": "Ät frukost",
+    "start": "2025-03-26T07:00:00",
+    "end": "2025-03-26T08:00:00",
+    "color": "#FDD835"
+  },
+  {
+    "activity": "Pendla",
+    "start": "2025-03-26T08:00:00",
+    "end": "2025-03-26T09:00:00",
+    "color": "#5E35B1"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-26T09:00:00",
+    "end": "2025-03-26T11:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Kort paus / Fika",
+    "start": "2025-03-26T11:00:00",
+    "end": "2025-03-26T11:30:00",
+    "color": "#A1887F"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-26T11:30:00",
+    "end": "2025-03-26T13:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Lunch",
+    "start": "2025-03-26T13:00:00",
+    "end": "2025-03-26T14:00:00",
+    "color": "#FB8C00"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-26T14:00:00",
+    "end": "2025-03-26T17:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Promenad eller lätt träning",
+    "start": "2025-03-26T17:00:00",
+    "end": "2025-03-26T18:00:00",
+    "color": "#8E24AA"
+  },
+  {
+    "activity": "Middag",
+    "start": "2025-03-26T18:00:00",
+    "end": "2025-03-26T19:00:00",
+    "color": "#1E88E5"
+  },
+  {
+    "activity": "Fritid eller socialt umgänge",
+    "start": "2025-03-26T19:00:00",
+    "end": "2025-03-26T21:00:00",
+    "color": "#F4511E"
+  },
+  {
+    "activity": "Läsning eller lugn aktivitet",
+    "start": "2025-03-26T21:00:00",
+    "end": "2025-03-26T22:00:00",
+    "color": "#757575"
+  },
+
+  {
+    "activity": "Ät frukost",
+    "start": "2025-03-27T07:00:00",
+    "end": "2025-03-27T08:00:00",
+    "color": "#FDD835"
+  },
+  {
+    "activity": "Pendla",
+    "start": "2025-03-27T08:00:00",
+    "end": "2025-03-27T09:00:00",
+    "color": "#5E35B1"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-27T09:00:00",
+    "end": "2025-03-27T12:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Lunch",
+    "start": "2025-03-27T12:00:00",
+    "end": "2025-03-27T13:00:00",
+    "color": "#FB8C00"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-27T13:00:00",
+    "end": "2025-03-27T15:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Möte eller grupparbete",
+    "start": "2025-03-27T15:00:00",
+    "end": "2025-03-27T16:00:00",
+    "color": "#3949AB"
+  },
+  {
+    "activity": "Gymma",
+    "start": "2025-03-27T16:00:00",
+    "end": "2025-03-27T17:00:00",
+    "color": "#E53935"
+  },
+  {
+    "activity": "Pendla hem",
+    "start": "2025-03-27T17:00:00",
+    "end": "2025-03-27T18:00:00",
+    "color": "#5E35B1"
+  },
+  {
+    "activity": "Middag",
+    "start": "2025-03-27T18:00:00",
+    "end": "2025-03-27T19:00:00",
+    "color": "#1E88E5"
+  },
+  {
+    "activity": "Planering eller projekt",
+    "start": "2025-03-27T19:00:00",
+    "end": "2025-03-27T21:00:00",
+    "color": "#9C27B0"
+  },
+  {
+    "activity": "Chilla",
+    "start": "2025-03-27T21:00:00",
+    "end": "2025-03-27T22:00:00",
+    "color": "#757575"
+  },
+
+  {
+    "activity": "Ät frukost",
+    "start": "2025-03-28T07:00:00",
+    "end": "2025-03-28T08:00:00",
+    "color": "#FDD835"
+  },
+  {
+    "activity": "Pendla",
+    "start": "2025-03-28T08:00:00",
+    "end": "2025-03-28T09:00:00",
+    "color": "#5E35B1"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-28T09:00:00",
+    "end": "2025-03-28T12:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Lunch",
+    "start": "2025-03-28T12:00:00",
+    "end": "2025-03-28T13:00:00",
+    "color": "#FB8C00"
+  },
+  {
+    "activity": "Jobba/Plugga",
+    "start": "2025-03-28T13:00:00",
+    "end": "2025-03-28T15:00:00",
+    "color": "#43A047"
+  },
+  {
+    "activity": "Avstämningsmöte",
+    "start": "2025-03-28T15:00:00",
+    "end": "2025-03-28T16:00:00",
+    "color": "#3949AB"
+  },
+  {
+    "activity": "Gymma",
+    "start": "2025-03-28T16:00:00",
+    "end": "2025-03-28T17:00:00",
+    "color": "#E53935"
+  },
+  {
+    "activity": "Pendla & handla",
+    "start": "2025-03-28T17:00:00",
+    "end": "2025-03-28T19:00:00",
+    "color": "#5E35B1"
+  },
+  {
+    "activity": "Middag",
+    "start": "2025-03-28T19:00:00",
+    "end": "2025-03-28T20:00:00",
+    "color": "#1E88E5"
+  },
+  {
+    "activity": "Träffa vänner eller familj",
+    "start": "2025-03-28T20:00:00",
+    "end": "2025-03-28T22:00:00",
+    "color": "#F4511E"
+  },
+
+  {
+    "activity": "Ät frukost",
+    "start": "2025-03-29T08:00:00",
+    "end": "2025-03-29T09:00:00",
+    "color": "#FDD835"
+  },
+  {
+    "activity": "Lätt träning / Promenad",
+    "start": "2025-03-29T09:00:00",
+    "end": "2025-03-29T10:00:00",
+    "color": "#8E24AA"
+  },
+  {
+    "activity": "Städa eller hushållssysslor",
+    "start": "2025-03-29T10:00:00",
+    "end": "2025-03-29T12:00:00",
+    "color": "#BDBDBD"
+  },
+  {
+    "activity": "Lunch",
+    "start": "2025-03-29T12:00:00",
+    "end": "2025-03-29T13:00:00",
+    "color": "#FB8C00"
+  },
+  {
+    "activity": "Fritidsaktivitet (hobby, sport, etc.)",
+    "start": "2025-03-29T13:00:00",
+    "end": "2025-03-29T15:00:00",
+    "color": "#FB8500"
+  },
+  {
+    "activity": "Chilla eller träffa vänner",
+    "start": "2025-03-29T15:00:00",
+    "end": "2025-03-29T17:00:00",
+    "color": "#F4511E"
+  },
+  {
+    "activity": "Middag",
+    "start": "2025-03-29T17:00:00",
+    "end": "2025-03-29T18:00:00",
+    "color": "#1E88E5"
+  },
+  {
+    "activity": "Socialt umgänge eller filmkväll",
+    "start": "2025-03-29T18:00:00",
+    "end": "2025-03-29T21:00:00",
+    "color": "#F4511E"
+  },
+
+  {
+    "activity": "Ät frukost",
+    "start": "2025-03-30T08:00:00",
+    "end": "2025-03-30T09:00:00",
+    "color": "#FDD835"
+  },
+  {
+    "activity": "Lätt träning / Yoga",
+    "start": "2025-03-30T09:00:00",
+    "end": "2025-03-30T10:00:00",
+    "color": "#8E24AA"
+  },
+  {
+    "activity": "Planera kommande vecka",
+    "start": "2025-03-30T10:00:00",
+    "end": "2025-03-30T12:00:00",
+    "color": "#7CB342"
+  },
+  {
+    "activity": "Lunch",
+    "start": "2025-03-30T12:00:00",
+    "end": "2025-03-30T13:00:00",
+    "color": "#FB8C00"
+  },
+  {
+    "activity": "Familjetid eller hobby",
+    "start": "2025-03-30T13:00:00",
+    "end": "2025-03-30T15:00:00",
+    "color": "#F4511E"
+  },
+  {
+    "activity": "Laga matlådor / Förberedelse",
+    "start": "2025-03-30T15:00:00",
+    "end": "2025-03-30T17:00:00",
+    "color": "#7CB342"
+  },
+  {
+    "activity": "Middag",
+    "start": "2025-03-30T17:00:00",
+    "end": "2025-03-30T18:00:00",
+    "color": "#1E88E5"
+  },
+  {
+    "activity": "Avkoppling (läsning, film, etc.)",
+    "start": "2025-03-30T18:00:00",
+    "end": "2025-03-30T20:00:00",
+    "color": "#757575"
+  },
+  {
+    "activity": "Kvällsrutin",
+    "start": "2025-03-30T20:00:00",
+    "end": "2025-03-30T21:00:00",
+    "color": "#757575"
+  }
+]
