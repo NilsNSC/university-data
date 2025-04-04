@@ -3,420 +3,483 @@
     "activity": "Ät frukost",
     "start": "2025-03-24T07:00:00Z",
     "end": "2025-03-24T08:00:00Z",
-    "color": "#FDD835"
+    "color": "#FDD835",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Pendla till jobb/plugg",
     "start": "2025-03-24T08:00:00Z",
     "end": "2025-03-24T09:00:00Z",
-    "color": "#5E35B1"
+    "color": "#5E35B1",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-24T09:00:00Z",
     "end": "2025-03-24T12:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lunch",
     "start": "2025-03-24T12:00:00Z",
     "end": "2025-03-24T13:00:00Z",
-    "color": "#FB8C00"
+    "color": "#FB8C00",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-24T13:00:00Z",
     "end": "2025-03-24T17:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Gymma",
     "start": "2025-03-24T17:00:00Z",
     "end": "2025-03-24T18:00:00Z",
-    "color": "#E53935"
+    "color": "#E53935",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Middag",
     "start": "2025-03-24T18:00:00Z",
     "end": "2025-03-24T19:00:00Z",
-    "color": "#1E88E5"
+    "color": "#1E88E5",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Plugga eller projektarbete",
     "start": "2025-03-24T19:00:00Z",
     "end": "2025-03-24T21:00:00Z",
-    "color": "#9C27B0"
+    "color": "#9C27B0",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Chilla",
     "start": "2025-03-24T21:00:00Z",
     "end": "2025-03-24T22:00:00Z",
-    "color": "#757575"
+    "color": "#757575",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Förberedelse för sänggående",
     "start": "2025-03-24T22:00:00Z",
     "end": "2025-03-24T23:00:00Z",
-    "color": "#757575"
+    "color": "#757575",
+    "owner": "Warren Buffet"
   },
-
   {
     "activity": "Ät frukost",
     "start": "2025-03-25T07:00:00Z",
     "end": "2025-03-25T08:00:00Z",
-    "color": "#FDD835"
+    "color": "#FDD835",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Pendla till jobb/plugg",
     "start": "2025-03-25T08:00:00Z",
     "end": "2025-03-25T09:00:00Z",
-    "color": "#5E35B1"
+    "color": "#5E35B1",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-25T09:00:00Z",
     "end": "2025-03-25T12:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lunch",
     "start": "2025-03-25T12:00:00Z",
     "end": "2025-03-25T13:00:00Z",
-    "color": "#FB8C00"
+    "color": "#FB8C00",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-25T13:00:00Z",
     "end": "2025-03-25T16:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Möte eller grupparbete",
     "start": "2025-03-25T16:00:00Z",
     "end": "2025-03-25T17:00:00Z",
-    "color": "#3949AB"
+    "color": "#3949AB",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Gymma",
     "start": "2025-03-25T17:00:00Z",
     "end": "2025-03-25T18:00:00Z",
-    "color": "#E53935"
+    "color": "#E53935",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Middag",
     "start": "2025-03-25T18:00:00Z",
     "end": "2025-03-25T19:00:00Z",
-    "color": "#1E88E5"
+    "color": "#1E88E5",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Familjetid eller projekt",
     "start": "2025-03-25T19:00:00Z",
     "end": "2025-03-25T21:00:00Z",
-    "color": "#9C27B0"
+    "color": "#9C27B0",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Chilla",
     "start": "2025-03-25T21:00:00Z",
     "end": "2025-03-25T22:00:00Z",
-    "color": "#757575"
+    "color": "#757575",
+    "owner": "Warren Buffet"
   },
-
   {
     "activity": "Ät frukost",
     "start": "2025-03-26T07:00:00Z",
     "end": "2025-03-26T08:00:00Z",
-    "color": "#FDD835"
+    "color": "#FDD835",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Pendla",
     "start": "2025-03-26T08:00:00Z",
     "end": "2025-03-26T09:00:00Z",
-    "color": "#5E35B1"
+    "color": "#5E35B1",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-26T09:00:00Z",
     "end": "2025-03-26T11:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Kort paus / Fika",
     "start": "2025-03-26T11:00:00Z",
     "end": "2025-03-26T11:30:00Z",
-    "color": "#A1887F"
+    "color": "#A1887F",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-26T11:30:00Z",
     "end": "2025-03-26T13:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lunch",
     "start": "2025-03-26T13:00:00Z",
     "end": "2025-03-26T14:00:00Z",
-    "color": "#FB8C00"
+    "color": "#FB8C00",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-26T14:00:00Z",
     "end": "2025-03-26T17:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Promenad eller lätt träning",
     "start": "2025-03-26T17:00:00Z",
     "end": "2025-03-26T18:00:00Z",
-    "color": "#8E24AA"
+    "color": "#8E24AA",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Middag",
     "start": "2025-03-26T18:00:00Z",
     "end": "2025-03-26T19:00:00Z",
-    "color": "#1E88E5"
+    "color": "#1E88E5",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Fritid eller socialt umgänge",
     "start": "2025-03-26T19:00:00Z",
     "end": "2025-03-26T21:00:00Z",
-    "color": "#F4511E"
+    "color": "#F4511E",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Läsning eller lugn aktivitet",
     "start": "2025-03-26T21:00:00Z",
     "end": "2025-03-26T22:00:00Z",
-    "color": "#757575"
+    "color": "#757575",
+    "owner": "Warren Buffet"
   },
-
   {
     "activity": "Ät frukost",
     "start": "2025-03-27T07:00:00Z",
     "end": "2025-03-27T08:00:00Z",
-    "color": "#FDD835"
+    "color": "#FDD835",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Pendla",
     "start": "2025-03-27T08:00:00Z",
     "end": "2025-03-27T09:00:00Z",
-    "color": "#5E35B1"
+    "color": "#5E35B1",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-27T09:00:00Z",
     "end": "2025-03-27T12:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lunch",
     "start": "2025-03-27T12:00:00Z",
     "end": "2025-03-27T13:00:00Z",
-    "color": "#FB8C00"
+    "color": "#FB8C00",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-27T13:00:00Z",
     "end": "2025-03-27T15:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Möte eller grupparbete",
     "start": "2025-03-27T15:00:00Z",
     "end": "2025-03-27T16:00:00Z",
-    "color": "#3949AB"
+    "color": "#3949AB",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Gymma",
     "start": "2025-03-27T16:00:00Z",
     "end": "2025-03-27T17:00:00Z",
-    "color": "#E53935"
+    "color": "#E53935",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Pendla hem",
     "start": "2025-03-27T17:00:00Z",
     "end": "2025-03-27T18:00:00Z",
-    "color": "#5E35B1"
+    "color": "#5E35B1",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Middag",
     "start": "2025-03-27T18:00:00Z",
     "end": "2025-03-27T19:00:00Z",
-    "color": "#1E88E5"
+    "color": "#1E88E5",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Planering eller projekt",
     "start": "2025-03-27T19:00:00Z",
     "end": "2025-03-27T21:00:00Z",
-    "color": "#9C27B0"
+    "color": "#9C27B0",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Chilla",
     "start": "2025-03-27T21:00:00Z",
     "end": "2025-03-27T22:00:00Z",
-    "color": "#757575"
+    "color": "#757575",
+    "owner": "Warren Buffet"
   },
-
   {
     "activity": "Ät frukost",
     "start": "2025-03-28T07:00:00Z",
     "end": "2025-03-28T08:00:00Z",
-    "color": "#FDD835"
+    "color": "#FDD835",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Pendla",
     "start": "2025-03-28T08:00:00Z",
     "end": "2025-03-28T09:00:00Z",
-    "color": "#5E35B1"
+    "color": "#5E35B1",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-28T09:00:00Z",
     "end": "2025-03-28T12:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lunch",
     "start": "2025-03-28T12:00:00Z",
     "end": "2025-03-28T13:00:00Z",
-    "color": "#FB8C00"
+    "color": "#FB8C00",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Jobba/Plugga",
     "start": "2025-03-28T13:00:00Z",
     "end": "2025-03-28T15:00:00Z",
-    "color": "#43A047"
+    "color": "#43A047",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Avstämningsmöte",
     "start": "2025-03-28T15:00:00Z",
     "end": "2025-03-28T16:00:00Z",
-    "color": "#3949AB"
+    "color": "#3949AB",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Gymma",
     "start": "2025-03-28T16:00:00Z",
     "end": "2025-03-28T17:00:00Z",
-    "color": "#E53935"
+    "color": "#E53935",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Pendla & handla",
     "start": "2025-03-28T17:00:00Z",
     "end": "2025-03-28T19:00:00Z",
-    "color": "#5E35B1"
+    "color": "#5E35B1",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Middag",
     "start": "2025-03-28T19:00:00Z",
     "end": "2025-03-28T20:00:00Z",
-    "color": "#1E88E5"
+    "color": "#1E88E5",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Träffa vänner eller familj",
     "start": "2025-03-28T20:00:00Z",
     "end": "2025-03-28T22:00:00Z",
-    "color": "#F4511E"
+    "color": "#F4511E",
+    "owner": "Warren Buffet"
   },
-
   {
     "activity": "Ät frukost",
     "start": "2025-03-29T08:00:00Z",
     "end": "2025-03-29T09:00:00Z",
-    "color": "#FDD835"
+    "color": "#FDD835",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lätt träning / Promenad",
     "start": "2025-03-29T09:00:00Z",
     "end": "2025-03-29T10:00:00Z",
-    "color": "#8E24AA"
+    "color": "#8E24AA",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Städa eller hushållssysslor",
     "start": "2025-03-29T10:00:00Z",
     "end": "2025-03-29T12:00:00Z",
-    "color": "#BDBDBD"
+    "color": "#BDBDBD",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lunch",
     "start": "2025-03-29T12:00:00Z",
     "end": "2025-03-29T13:00:00Z",
-    "color": "#FB8C00"
+    "color": "#FB8C00",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Fritidsaktivitet (hobby, sport, etc.)",
     "start": "2025-03-29T13:00:00Z",
     "end": "2025-03-29T15:00:00Z",
-    "color": "#FB8500"
+    "color": "#FB8500",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Chilla eller träffa vänner",
     "start": "2025-03-29T15:00:00Z",
     "end": "2025-03-29T17:00:00Z",
-    "color": "#F4511E"
+    "color": "#F4511E",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Middag",
     "start": "2025-03-29T17:00:00Z",
     "end": "2025-03-29T18:00:00Z",
-    "color": "#1E88E5"
+    "color": "#1E88E5",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Socialt umgänge eller filmkväll",
     "start": "2025-03-29T18:00:00Z",
     "end": "2025-03-29T21:00:00Z",
-    "color": "#F4511E"
+    "color": "#F4511E",
+    "owner": "Warren Buffet"
   },
-
   {
     "activity": "Ät frukost",
     "start": "2025-03-30T08:00:00Z",
     "end": "2025-03-30T09:00:00Z",
-    "color": "#FDD835"
+    "color": "#FDD835",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lätt träning / Yoga",
     "start": "2025-03-30T09:00:00Z",
     "end": "2025-03-30T10:00:00Z",
-    "color": "#8E24AA"
+    "color": "#8E24AA",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Planera kommande vecka",
     "start": "2025-03-30T10:00:00Z",
     "end": "2025-03-30T12:00:00Z",
-    "color": "#7CB342"
+    "color": "#7CB342",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Lunch",
     "start": "2025-03-30T12:00:00Z",
     "end": "2025-03-30T13:00:00Z",
-    "color": "#FB8C00"
+    "color": "#FB8C00",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Familjetid eller hobby",
     "start": "2025-03-30T13:00:00Z",
     "end": "2025-03-30T15:00:00Z",
-    "color": "#F4511E"
+    "color": "#F4511E",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Laga matlådor / Förberedelse",
     "start": "2025-03-30T15:00:00Z",
     "end": "2025-03-30T17:00:00Z",
-    "color": "#7CB342"
+    "color": "#7CB342",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Middag",
     "start": "2025-03-30T17:00:00Z",
     "end": "2025-03-30T18:00:00Z",
-    "color": "#1E88E5"
+    "color": "#1E88E5",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Avkoppling (läsning, film, etc.)",
     "start": "2025-03-30T18:00:00Z",
     "end": "2025-03-30T20:00:00Z",
-    "color": "#757575"
+    "color": "#757575",
+    "owner": "Warren Buffet"
   },
   {
     "activity": "Kvällsrutin",
     "start": "2025-03-30T20:00:00Z",
     "end": "2025-03-30T21:00:00Z",
-    "color": "#757575"
+    "color": "#757575",
+    "owner": "Warren Buffet"
   }
 ]
