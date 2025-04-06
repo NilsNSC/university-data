@@ -482,4 +482,20 @@
     "color": "#757575",
     "owner": "Warren Buffet"
   }
+  },
+  {
+    "activity": "Avkoppling (läsning, film, etc.)",
+    "start": "2025-03-30T18:00:00Z",
+    "end": "2025-03-30T20:00:00Z",
+    "color": "#757575",
+    "owner": "Nils Thuveson"
+  },
+  {
+    "activity": "Kvällsrutin",
+    "start": "2025-03-30T20:00:00Z",
+    "end": "2025-03-30T21:00:00Z",
+    "color": "#757575",
+    "owner": "Nils Thuveson"
+  }
 ]
+
