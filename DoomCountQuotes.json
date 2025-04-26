@@ -1,0 +1,1602 @@
+[
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you. \u2014 Walt Whitman",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by. \u2014 Douglas Adams",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He suffers more than necessary, who suffers before it is necessary. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny. \u2014 C.S. Lewis",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile away and you'll have their shoes. \u2014 Jack Handey",
+    "category": "Humorous"
+  },
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you. \u2014 Walt Whitman",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by. \u2014 Douglas Adams",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He suffers more than necessary, who suffers before it is necessary. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny. \u2014 C.S. Lewis",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile away and you'll have their shoes. \u2014 Jack Handey",
+    "category": "Humorous"
+  },
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you. \u2014 Walt Whitman",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by. \u2014 Douglas Adams",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He suffers more than necessary, who suffers before it is necessary. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny. \u2014 C.S. Lewis",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile away and you'll have their shoes. \u2014 Jack Handey",
+    "category": "Humorous"
+  },
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you. \u2014 Walt Whitman",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by. \u2014 Douglas Adams",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He suffers more than necessary, who suffers before it is necessary. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny. \u2014 C.S. Lewis",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile away and you'll have their shoes. \u2014 Jack Handey",
+    "category": "Humorous"
+  },
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you. \u2014 Walt Whitman",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by. \u2014 Douglas Adams",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He suffers more than necessary, who suffers before it is necessary. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny. \u2014 C.S. Lewis",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile away and you'll have their shoes. \u2014 Jack Handey",
+    "category": "Humorous"
+  },
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you. \u2014 Walt Whitman",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by. \u2014 Douglas Adams",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He suffers more than necessary, who suffers before it is necessary. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny. \u2014 C.S. Lewis",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile away and you'll have their shoes. \u2014 Jack Handey",
+    "category": "Humorous"
+  },
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you. \u2014 Walt Whitman",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by. \u2014 Douglas Adams",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He suffers more than necessary, who suffers before it is necessary. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny. \u2014 C.S. Lewis",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile away and you'll have their shoes. \u2014 Jack Handey",
+    "category": "Humorous"
+  },
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you. \u2014 Walt Whitman",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by. \u2014 Douglas Adams",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He suffers more than necessary, who suffers before it is necessary. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny. \u2014 C.S. Lewis",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Before you criticize someone, walk a mile in their shoes. That way, you'll be a mile away and you'll have their shoes. \u2014 Jack Handey",
+    "category": "Humorous"
+  },
+  {
+    "quote": "We suffer more often in imagination than in reality. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I'm not arguing, I'm just explaining why I'm right. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The best revenge is not to be like your enemy. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts. \u2014 Winston Churchill",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I can resist everything except temptation. \u2014 Oscar Wilde",
+    "category": "Humorous"
+  },
+  {
+    "quote": "If it is not right do not do it; if it is not true do not say it. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Believe you can and you're halfway there. \u2014 Theodore Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Wealth consists not in having great possessions, but in having few wants. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now. \u2014 Chinese Proverb",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I intend to live forever. So far, so good. \u2014 Steven Wright",
+    "category": "Humorous"
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Your time is limited, don't waste it living someone else's life. \u2014 Steve Jobs",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "People say nothing is impossible, but I do nothing every day. \u2014 A. A. Milne",
+    "category": "Humorous"
+  },
+  {
+    "quote": "No man is free who is not master of himself. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today. \u2014 Franklin D. Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I find television very educating. Every time someone turns on the set, I go into the other room and read a book. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Difficulties strengthen the mind, as labor does the body. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop. \u2014 Confucius",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read. \u2014 Groucho Marx",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity. \u2014 Seneca",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Everything you\u2019ve ever wanted is on the other side of fear. \u2014 George Addair",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I always wanted to be somebody, but now I realize I should have been more specific. \u2014 Lily Tomlin",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The obstacle is the way. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "You miss 100% of the shots you don\u2019t take. \u2014 Wayne Gretzky",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "My fake plants died because I did not pretend to water them. \u2014 Mitch Hedberg",
+    "category": "Humorous"
+  },
+  {
+    "quote": "It is not death that a man should fear, but he should fear never beginning to live. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Whether you think you can or you think you can\u2019t, you\u2019re right. \u2014 Henry Ford",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I used to think I was indecisive, but now I'm not so sure. \u2014 Anonymous",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Man conquers the world by conquering himself. \u2014 Zeno of Citium",
+    "category": "Stoic"
+  },
+  {
+    "quote": "Dream big and dare to fail. \u2014 Norman Vaughan",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments. \u2014 Earl Wilson",
+    "category": "Humorous"
+  },
+  {
+    "quote": "He who laughs at himself never runs out of things to laugh at. \u2014 Epictetus",
+    "category": "Stoic"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams. \u2014 Eleanor Roosevelt",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "The road to success is dotted with many tempting parking spaces. \u2014 Will Rogers",
+    "category": "Humorous"
+  },
+  {
+    "quote": "Be tolerant with others and strict with yourself. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse. \u2014 Florence Nightingale",
+    "category": "Inspirational"
+  },
+  {
+    "quote": "I am an early bird and a night owl... so I am wise and I have worms. \u2014 Michael Scott",
+    "category": "Humorous"
+  },
+  {
+    "quote": "The things you think about determine the quality of your mind. \u2014 Marcus Aurelius",
+    "category": "Stoic"
+  }
+]
